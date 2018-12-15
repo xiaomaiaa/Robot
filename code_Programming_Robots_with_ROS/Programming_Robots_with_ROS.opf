@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE package PUBLIC "+//ISBN 0-9673008-1-9//DTD OEB 1.2 Package//EN" "http://openebook.org/dtds/oeb-1.2/oebpkg12.dtd">
+<package xmlns="http://openebook.org/namespaces/oeb-package/1.0/" unique-identifier="pub-identifier" prefix="ibooks: http://vocabulary.itunes.apple.com/rdf/ibooks/vocabulary-extensions-1.0/">
+  <metadata>
+    <dc-metadata xmlns:oebpackage="http://openebook.org/namespaces/oeb-package/1.0/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <dc:Identifier id="pub-identifier">9781449323899</dc:Identifier>
+      <dc:Title>Programming Robots with ROS</dc:Title>
+      <dc:Publisher>Bookshare</dc:Publisher>
+      <dc:Date>2015-12-15</dc:Date>
+      <dc:Description>Want to develop novel robot applications, but don't know how to write a mapping or object recognition system? You're certainly not alone, but you're not without help. By combining real-world examples with valuable knowledge from the Robot Operating System (ROS) community, this practical book provides a set of motivating recipes for solving specific robotics use cases.</dc:Description>
+      <dc:Identifier scheme="ISBN" id="ID-9781449325503">9781449325503</dc:Identifier>
+      <dc:Creator file-as="Gerkey, Brian">Brian Gerkey</dc:Creator>
+      <dc:Creator file-as="Quigley, Morgan">Morgan Quigley</dc:Creator>
+      <dc:Creator file-as="Smart, William D.">William D. Smart</dc:Creator>
+      <dc:Language>en-US</dc:Language>
+      <dc:Format>ANSI/NISO Z39.86-2005</dc:Format>
+      <dc:Identifier scheme="BKSH" id="bksh-id">Bookshare-1137372_12649543</dc:Identifier>
+    </dc-metadata>
+    <x-metadata>
+      <meta name="cover" content="cover-image" />
+      <meta name="dtb:multimediaType" content="textNCX" />
+      <meta name="dtb:multimediaContent" content="text,image" />
+      <meta name="dtb:sourcePublisher" content="O'Reilly Media, Inc." />
+      <meta name="Synopsis" content="Want to develop novel robot applications, but don&amp;apos;t know how to write a mapping or object recognition system? You&amp;apos;re not alone, but you&amp;apos;re certainly not without help. By combining real-world examples with valuable knowledge from the Robot Operating System (ROS) community, this practical book provides motivating recipes for solving specific robotics use cases.Ideal for enthusiasts, from students in robotics clubs to professional robotics scientists and engineers, each recipe describes a complete solution using ROS open source libraries and tools. You&amp;apos;ll learn how to complete tasks described in the recipes, as well as how to configure and recombine components for other tasks. If you&amp;apos;re familiar with Python, you&amp;apos;re ready to go.Learn fundamentals, including key ROS concepts, tools, and patternsProgram robots that perform an increasingly complex set of behaviors, using the powerful packages in ROSSee how to easily add perception and navigation abilities to your robotsIntegrate your own sensors, actuators, software libraries, and even a whole robot into the ROS ecosystemLearn tips and tricks for using ROS tools and community resources, debugging robot behavior, and using C++ in ROS" />
+      <meta name="dtb:sourceDate" content="2015-12-15" />
+      <meta name="Copyright" content="Brian Gerkey, Morgan Quigley, William D. Smart" />
+      <meta name="DCTERMS.date.dateCopyrighted" content="2015" />
+    <meta name="dtb:sourceRights" content="Brian Gerkey, Morgan Quigley, William D. Smart" /></x-metadata>
+  </metadata>
+  <manifest><item id="xml" href="Programming_Robots_with_ROS.xml" media-type="application/x-dtbook+xml" /><item id="ncx" href="Programming_Robots_with_ROS.ncx" media-type="application/x-dtbncx+xml" />
+    
+    
+    <item id="cover-image" href="images/cover.jpg" media-type="image/jpg" />
+    <item id="img-idp135568" href="images/prwr_0201.jpg" media-type="image/jpg" />
+    <item id="img-idp165344" href="images/prwr_0202.jpg" media-type="image/jpg" />
+    <item id="img-idp16887952" href="images/1.jpg" media-type="image/jpg" />
+    <item id="img-idp16784528" href="images/2.jpg" media-type="image/jpg" />
+    <item id="img-idp251456" href="images/3.jpg" media-type="image/jpg" />
+    <item id="img-idp14159232" href="images/4.jpg" media-type="image/jpg" />
+    <item id="img-idp14586704" href="images/5.jpg" media-type="image/jpg" />
+    <item id="img-idp16039568" href="images/6.jpg" media-type="image/jpg" />
+    <item id="img-idp16485328" href="images/7.jpg" media-type="image/jpg" />
+    <item id="img-idp15951952" href="images/8.jpg" media-type="image/jpg" />
+    <item id="img-idp13750688" href="images/9.jpg" media-type="image/jpg" />
+    <item id="img-idp16921104" href="images/prwr_0203.jpg" media-type="image/jpg" />
+    <item id="img-idp16933344" href="images/prwr_0204.jpg" media-type="image/jpg" />
+    <item id="img-idp16951520" href="images/prwr_0205.jpg" media-type="image/jpg" />
+    <item id="img-idp16955744" href="images/prwr_0206.jpg" media-type="image/jpg" />
+    <item id="img-idp16958816" href="images/prwr_0207.jpg" media-type="image/jpg" />
+    <item id="img-idp16994048" href="images/prwr_0209.jpg" media-type="image/jpg" />
+    <item id="img-idp18027744" href="images/prwr_0301.jpg" media-type="image/jpg" />
+    <item id="img-idp21854112" href="images/prwr_0601.jpg" media-type="image/jpg" />
+    <item id="img-idp21859696" href="images/prwr_0602.jpg" media-type="image/jpg" />
+    <item id="img-idp21866432" href="images/prwr_0603.jpg" media-type="image/jpg" />
+    <item id="img-idp21874624" href="images/prwr_0604.jpg" media-type="image/jpg" />
+    <item id="img-idp21891920" href="images/prwr_0605.jpg" media-type="image/jpg" />
+    <item id="img-idp21910672" href="images/prwr_0606.jpg" media-type="image/jpg" />
+    <item id="img-idp22242912" href="images/prwr_0701.jpg" media-type="image/jpg" />
+    <item id="img-idp22267968" href="images/prwr_0702.jpg" media-type="image/jpg" />
+    <item id="img-idp22278192" href="images/prwr_0703.jpg" media-type="image/jpg" />
+    <item id="img-idp23939376" href="images/prwr_0801.jpg" media-type="image/jpg" />
+    <item id="img-idp25091584" href="images/prwr_0802.jpg" media-type="image/jpg" />
+    <item id="img-idp25102384" href="images/prwr_0803.jpg" media-type="image/jpg" />
+    <item id="img-idp25143600" href="images/prwr_0804.jpg" media-type="image/jpg" />
+    <item id="img-idp25145680" href="images/prwr_0805.jpg" media-type="image/jpg" />
+    <item id="img-idp25147760" href="images/prwr_0806.jpg" media-type="image/jpg" />
+    <item id="img-idp25154048" href="images/prwr_0807.jpg" media-type="image/jpg" />
+    <item id="img-idp25159440" href="images/prwr_0808.jpg" media-type="image/jpg" />
+    <item id="img-idp25171024" href="images/prwr_0809.jpg" media-type="image/jpg" />
+    <item id="img-idp25177920" href="images/prwr_0811.jpg" media-type="image/jpg" />
+    <item id="img-idp25183824" href="images/prwr_0812.jpg" media-type="image/jpg" />
+    <item id="img-idp25219856" href="images/prwr_0902.jpg" media-type="image/jpg" />
+    <item id="img-idp24908176" href="images/prwr_0903.jpg" media-type="image/jpg" />
+    <item id="img-idp24944608" href="images/prwr_0904.jpg" media-type="image/jpg" />
+    <item id="img-idp24946640" href="images/prwr_0905.jpg" media-type="image/jpg" />
+    <item id="img-idp24968464" href="images/prwr_0906.jpg" media-type="image/jpg" />
+    <item id="img-idp24994080" href="images/prwr_09in01.jpg" media-type="image/jpg" />
+    <item id="img-idp25591504" href="images/prwr_1002.jpg" media-type="image/jpg" />
+    <item id="img-idp25600464" href="images/prwr_1003.jpg" media-type="image/jpg" />
+    <item id="img-idp25668672" href="images/prwr_1004.jpg" media-type="image/jpg" />
+    <item id="img-idp25674352" href="images/prwr_1005.jpg" media-type="image/jpg" />
+    <item id="img-idp25684240" href="images/prwr_1006.jpg" media-type="image/jpg" />
+    <item id="img-idp26403632" href="images/prwr_1101.jpg" media-type="image/jpg" />
+    <item id="img-idp25882752" href="images/prwr_1102.jpg" media-type="image/jpg" />
+    <item id="img-idp25968768" href="images/prwr_1103.jpg" media-type="image/jpg" />
+    <item id="img-idp26234960" href="images/prwr_1104.jpg" media-type="image/jpg" />
+    <item id="img-idp27618768" href="images/prwr_11in02.jpg" media-type="image/jpg" />
+    <item id="img-idp27620768" href="images/prwr_11in03.jpg" media-type="image/jpg" />
+    <item id="img-idp28109792" href="images/prwr_11in04.jpg" media-type="image/jpg" />
+    <item id="img-idp28240560" href="images/prwr_1105.jpg" media-type="image/jpg" />
+    <item id="img-idp28882464" href="images/prwr_1106.jpg" media-type="image/jpg" />
+    <item id="img-idp29363232" href="images/prwr_1201.jpg" media-type="image/jpg" />
+    <item id="img-idp29367264" href="images/prwr_1202.jpg" media-type="image/jpg" />
+    <item id="img-idp29375248" href="images/prwr_1203.jpg" media-type="image/jpg" />
+    <item id="img-idp29386320" href="images/prwr_1204.jpg" media-type="image/jpg" />
+    <item id="img-idp29791632" href="images/prwr_1205.jpg" media-type="image/jpg" />
+    <item id="img-idp29793600" href="images/prwr_1206.jpg" media-type="image/jpg" />
+    <item id="img-idp30169280" href="images/prwr_1207.jpg" media-type="image/jpg" />
+    <item id="img-idp30800848" href="images/prwr_1301.jpg" media-type="image/jpg" />
+    <item id="img-idp35264000" href="images/prwr_1401.jpg" media-type="image/jpg" />
+    <item id="img-idp35427680" href="images/prwr_1402.jpg" media-type="image/jpg" />
+    <item id="img-idp34110224" href="images/10.jpg" media-type="image/jpg" />
+    <item id="img-idp34127312" href="images/11.jpg" media-type="image/jpg" />
+    <item id="img-idp34347392" href="images/prwr_1403.jpg" media-type="image/jpg" />
+    <item id="img-idp34547712" href="images/prwr_1404.jpg" media-type="image/jpg" />
+    <item id="img-idp34909120" href="images/prwr_1405.jpg" media-type="image/jpg" />
+    <item id="img-idp34956736" href="images/prwr_1406.jpg" media-type="image/jpg" />
+    <item id="img-idp34823984" href="images/prwr_1407.jpg" media-type="image/jpg" />
+    <item id="img-idp36034448" href="images/prwr_1408.jpg" media-type="image/jpg" />
+    <item id="img-idp36683584" href="images/prwr_1409.jpg" media-type="image/jpg" />
+    <item id="img-idp36238736" href="images/prwr_1410.jpg" media-type="image/jpg" />
+    <item id="img-idp36311120" href="images/prwr_1411.jpg" media-type="image/jpg" />
+    <item id="img-idp35812880" href="images/prwr_1412.jpg" media-type="image/jpg" />
+    <item id="img-idp35803680" href="images/prwr_1413.jpg" media-type="image/jpg" />
+    <item id="img-idp35805616" href="images/prwr_1414.jpg" media-type="image/jpg" />
+    <item id="img-idp37823136" href="images/prwr_1501.jpg" media-type="image/jpg" />
+    <item id="img-idp38746976" href="images/prwr_1502.jpg" media-type="image/jpg" />
+    <item id="img-idp39402144" href="images/prwr_1601.jpg" media-type="image/jpg" />
+    <item id="img-idp39464064" href="images/prwr_1602.jpg" media-type="image/jpg" />
+    <item id="img-idp39528560" href="images/prwr_1603.jpg" media-type="image/jpg" />
+    <item id="img-idp39530528" href="images/prwr_1604.jpg" media-type="image/jpg" />
+    <item id="img-idp39532560" href="images/prwr_1605.jpg" media-type="image/jpg" />
+    <item id="img-idp39976480" href="images/prwr_1606.jpg" media-type="image/jpg" />
+    <item id="img-idp39818416" href="images/prwr_1607.jpg" media-type="image/jpg" />
+    <item id="img-idp39822032" href="images/prwr_1608.jpg" media-type="image/jpg" />
+    <item id="img-idp39140240" href="images/prwr_1701.jpg" media-type="image/jpg" />
+    <item id="img-idp39171632" href="images/prwr_1702.jpg" media-type="image/jpg" />
+    <item id="img-idp40672064" href="images/prwr_1703.jpg" media-type="image/jpg" />
+    <item id="img-idp40987264" href="images/prwr_1704.jpg" media-type="image/jpg" />
+    <item id="img-idp40989312" href="images/prwr_1705.jpg" media-type="image/jpg" />
+    <item id="img-idp41051632" href="images/prwr_1706.jpg" media-type="image/jpg" />
+    <item id="img-idp40809200" href="images/prwr_1707.jpg" media-type="image/jpg" />
+    <item id="img-idp41073216" href="images/prwr_1708.jpg" media-type="image/jpg" />
+    <item id="img-idp41182624" href="images/prwr_1709.jpg" media-type="image/jpg" />
+    <item id="img-idp41189520" href="images/prwr_1710.jpg" media-type="image/jpg" />
+    <item id="img-idp41195456" href="images/prwr_1711.jpg" media-type="image/jpg" />
+    <item id="img-idp41201024" href="images/prwr_1712.jpg" media-type="image/jpg" />
+    <item id="img-idp41223488" href="images/prwr_1801.jpg" media-type="image/jpg" />
+    <item id="img-idp41350096" href="images/prwr_1802.jpg" media-type="image/jpg" />
+    <item id="img-idp41633024" href="images/prwr_1803.jpg" media-type="image/jpg" />
+    <item id="img-idp42047776" href="images/prwr_1804.jpg" media-type="image/jpg" />
+    <item id="img-idp42407664" href="images/prwr_1805.jpg" media-type="image/jpg" />
+    <item id="img-idp42458000" href="images/prwr_1806.jpg" media-type="image/jpg" />
+    <item id="img-idp42513824" href="images/prwr_1807.jpg" media-type="image/jpg" />
+    <item id="img-idp42530016" href="images/prwr_1808.jpg" media-type="image/jpg" />
+    <item id="img-idp42534064" href="images/prwr_1809.jpg" media-type="image/jpg" />
+    <item id="img-idp42296592" href="images/prwr_1810.jpg" media-type="image/jpg" />
+    <item id="img-idp42298528" href="images/prwr_1811.jpg" media-type="image/jpg" />
+    <item id="img-idp42307248" href="images/prwr_1812.jpg" media-type="image/jpg" />
+    <item id="img-idp42618800" href="images/prwr_1813.jpg" media-type="image/jpg" />
+    <item id="img-idp42718688" href="images/prwr_1814.jpg" media-type="image/jpg" />
+    <item id="img-idp45013808" href="images/prwr_2101.jpg" media-type="image/jpg" />
+    <item id="img-idp45057744" href="images/prwr_2102.jpg" media-type="image/jpg" />
+    <item id="img-idp45136432" href="images/prwr_2103.jpg" media-type="image/jpg" />
+    <item id="img-idp45147312" href="images/prwr_2104.jpg" media-type="image/jpg" />
+    <item id="img-idp45161616" href="images/prwr_2105.jpg" media-type="image/jpg" />
+    <item id="img-idp45177808" href="images/prwr_2106.jpg" media-type="image/jpg" />
+    <item id="img-idp45348272" href="images/prwr_2107.jpg" media-type="image/jpg" />
+    <item id="img-idp45415664" href="images/prwr_2108.jpg" media-type="image/jpg" />
+    <item id="img-idp45557216" href="images/prwr_2109.jpg" media-type="image/jpg" />
+    <item id="img-idp45603168" href="images/prwr_2201.jpg" media-type="image/jpg" />
+    <item id="img-idp45610896" href="images/prwr_2202.jpg" media-type="image/jpg" />
+    <item id="opf" href="Programming_Robots_with_ROS.opf" media-type="text/xml" />
+    <item id="SMIL1" href="Programming_Robots_with_ROS00001.smil" media-type="application/smil" />
+    <item id="SMIL2" href="Programming_Robots_with_ROS00002.smil" media-type="application/smil" />
+    <item id="SMIL3" href="Programming_Robots_with_ROS00003.smil" media-type="application/smil" />
+    <item id="SMIL4" href="Programming_Robots_with_ROS00004.smil" media-type="application/smil" />
+    <item id="SMIL5" href="Programming_Robots_with_ROS00005.smil" media-type="application/smil" />
+    <item id="SMIL6" href="Programming_Robots_with_ROS00006.smil" media-type="application/smil" />
+    <item id="SMIL7" href="Programming_Robots_with_ROS00007.smil" media-type="application/smil" />
+    <item id="SMIL8" href="Programming_Robots_with_ROS00008.smil" media-type="application/smil" />
+    <item id="SMIL9" href="Programming_Robots_with_ROS00009.smil" media-type="application/smil" />
+    <item id="SMIL10" href="Programming_Robots_with_ROS00010.smil" media-type="application/smil" />
+    <item id="SMIL11" href="Programming_Robots_with_ROS00011.smil" media-type="application/smil" />
+    <item id="SMIL12" href="Programming_Robots_with_ROS00012.smil" media-type="application/smil" />
+    <item id="SMIL13" href="Programming_Robots_with_ROS00013.smil" media-type="application/smil" />
+    <item id="SMIL14" href="Programming_Robots_with_ROS00014.smil" media-type="application/smil" />
+    <item id="SMIL15" href="Programming_Robots_with_ROS00015.smil" media-type="application/smil" />
+    <item id="SMIL16" href="Programming_Robots_with_ROS00016.smil" media-type="application/smil" />
+    <item id="SMIL17" href="Programming_Robots_with_ROS00017.smil" media-type="application/smil" />
+    <item id="SMIL18" href="Programming_Robots_with_ROS00018.smil" media-type="application/smil" />
+    <item id="SMIL19" href="Programming_Robots_with_ROS00019.smil" media-type="application/smil" />
+    <item id="SMIL20" href="Programming_Robots_with_ROS00020.smil" media-type="application/smil" />
+    <item id="SMIL21" href="Programming_Robots_with_ROS00021.smil" media-type="application/smil" />
+    <item id="SMIL22" href="Programming_Robots_with_ROS00022.smil" media-type="application/smil" />
+    <item id="SMIL23" href="Programming_Robots_with_ROS00023.smil" media-type="application/smil" />
+    <item id="SMIL24" href="Programming_Robots_with_ROS00024.smil" media-type="application/smil" />
+    <item id="SMIL25" href="Programming_Robots_with_ROS00025.smil" media-type="application/smil" />
+    <item id="SMIL26" href="Programming_Robots_with_ROS00026.smil" media-type="application/smil" />
+    <item id="SMIL27" href="Programming_Robots_with_ROS00027.smil" media-type="application/smil" />
+    <item id="SMIL28" href="Programming_Robots_with_ROS00028.smil" media-type="application/smil" />
+    <item id="SMIL29" href="Programming_Robots_with_ROS00029.smil" media-type="application/smil" />
+    <item id="SMIL30" href="Programming_Robots_with_ROS00030.smil" media-type="application/smil" />
+    <item id="SMIL31" href="Programming_Robots_with_ROS00031.smil" media-type="application/smil" />
+    <item id="SMIL32" href="Programming_Robots_with_ROS00032.smil" media-type="application/smil" />
+    <item id="SMIL33" href="Programming_Robots_with_ROS00033.smil" media-type="application/smil" />
+    <item id="SMIL34" href="Programming_Robots_with_ROS00034.smil" media-type="application/smil" />
+  </manifest>
+  <spine>
+    <itemref idref="SMIL1" />
+    <itemref idref="SMIL2" />
+    <itemref idref="SMIL3" />
+    <itemref idref="SMIL4" />
+    <itemref idref="SMIL5" />
+    <itemref idref="SMIL6" />
+    <itemref idref="SMIL7" />
+    <itemref idref="SMIL8" />
+    <itemref idref="SMIL9" />
+    <itemref idref="SMIL10" />
+    <itemref idref="SMIL11" />
+    <itemref idref="SMIL12" />
+    <itemref idref="SMIL13" />
+    <itemref idref="SMIL14" />
+    <itemref idref="SMIL15" />
+    <itemref idref="SMIL16" />
+    <itemref idref="SMIL17" />
+    <itemref idref="SMIL18" />
+    <itemref idref="SMIL19" />
+    <itemref idref="SMIL20" />
+    <itemref idref="SMIL21" />
+    <itemref idref="SMIL22" />
+    <itemref idref="SMIL23" />
+    <itemref idref="SMIL24" />
+    <itemref idref="SMIL25" />
+    <itemref idref="SMIL26" />
+    <itemref idref="SMIL27" />
+    <itemref idref="SMIL28" />
+    <itemref idref="SMIL29" />
+    <itemref idref="SMIL30" />
+    <itemref idref="SMIL31" />
+    <itemref idref="SMIL32" />
+    <itemref idref="SMIL33" />
+    <itemref idref="SMIL34" />
+  </spine>
+  
+</package>

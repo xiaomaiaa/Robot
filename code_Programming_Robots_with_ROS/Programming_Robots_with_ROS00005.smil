@@ -1,0 +1,1544 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE smil PUBLIC "-//NISO//DTD dtbsmil 2005-2//EN" "http://www.daisy.org/z3986/2005/dtbsmil-2005-2.dtd">
+
+<smil xmlns="http://www.w3.org/2001/SMIL20/">
+  <head>
+    <meta name="dtb:uid" content="9781449323899" />
+    <meta name="dtb:generator" content="Bookshare.org" />
+    <meta name="dtb:totalElapsedTime" content="0" />
+    <layout>
+      <region id="textRegion" height="auto" width="auto" bottom="auto" top="auto" left="auto" right="auto" fit="hidden" showBackground="always" />
+    </layout>
+    <customAttributes>
+      <customTest id="pagenumCustomTest" defaultState="false" override="visible" />
+      <customTest id="noteCustomTest" defaultState="false" override="visible" />
+    </customAttributes>
+  </head>
+  <body>
+    <seq id="baseseq" class="book" fill="remove">
+      <par id="em_000159" class="em">
+        <text src="Programming_Robots_with_ROS.xml#em_000159" region="textRegion" />
+      </par>
+      <par id="span_001040" class="span">
+        <text src="Programming_Robots_with_ROS.xml#span_001040" region="textRegion" />
+      </par>
+      <par id="em_000160" class="em">
+        <text src="Programming_Robots_with_ROS.xml#em_000160" region="textRegion" />
+      </par>
+      <par id="span_001041" class="span">
+        <text src="Programming_Robots_with_ROS.xml#span_001041" region="textRegion" />
+      </par>
+      <par id="em_000161" class="em">
+        <text src="Programming_Robots_with_ROS.xml#em_000161" region="textRegion" />
+      </par>
+      <par id="span_001042" class="span">
+        <text src="Programming_Robots_with_ROS.xml#span_001042" region="textRegion" />
+      </par>
+      <par id="em_000162" class="em">
+        <text src="Programming_Robots_with_ROS.xml#em_000162" region="textRegion" />
+      </par>
+      <par id="span_001043" class="span">
+        <text src="Programming_Robots_with_ROS.xml#span_001043" region="textRegion" />
+      </par>
+      <par id="em_000163" class="em">
+        <text src="Programming_Robots_with_ROS.xml#em_000163" region="textRegion" />
+      </par>
+      <par id="span_001044" class="span">
+        <text src="Programming_Robots_with_ROS.xml#span_001044" region="textRegion" />
+      </par>
+      <par id="em_000164" class="em">
+        <text src="Programming_Robots_with_ROS.xml#em_000164" region="textRegion" />
+      </par>
+      <par id="span_001045" class="span">
+        <text src="Programming_Robots_with_ROS.xml#span_001045" region="textRegion" />
+      </par>
+      <par id="span_001046" class="span">
+        <text src="Programming_Robots_with_ROS.xml#span_001046" region="textRegion" />
+      </par>
+      <par id="code_000490" class="code">
+        <text src="Programming_Robots_with_ROS.xml#code_000490" region="textRegion" />
+      </par>
+      <par id="span_001047" class="span">
+        <text src="Programming_Robots_with_ROS.xml#span_001047" region="textRegion" />
+      </par>
+      <a href="#ch10-navigating" external="false">
+        <par id="a_000069" class="a">
+          <text src="Programming_Robots_with_ROS.xml#a_000069" region="textRegion" />
+        </par>
+      </a>
+      <par id="span_001048" class="span">
+        <text src="Programming_Robots_with_ROS.xml#span_001048" region="textRegion" />
+      </par>
+      <par id="h1_000093" class="h1">
+        <text src="Programming_Robots_with_ROS.xml#h1_000093" region="textRegion" />
+      </par>
+      <par id="span_001049" class="span">
+        <text src="Programming_Robots_with_ROS.xml#span_001049" region="textRegion" />
+      </par>
+      <par id="code_000491" class="code">
+        <text src="Programming_Robots_with_ROS.xml#code_000491" region="textRegion" />
+      </par>
+      <par id="span_001050" class="span">
+        <text src="Programming_Robots_with_ROS.xml#span_001050" region="textRegion" />
+      </par>
+      <par id="span_001051" class="span">
+        <text src="Programming_Robots_with_ROS.xml#span_001051" region="textRegion" />
+      </par>
+      <a href="#ch05-timer_action" external="false">
+        <par id="a_000070" class="a">
+          <text src="Programming_Robots_with_ROS.xml#a_000070" region="textRegion" />
+        </par>
+      </a>
+      <par id="span_001052" class="span">
+        <text src="Programming_Robots_with_ROS.xml#span_001052" region="textRegion" />
+      </par>
+      <par id="h1_000094" class="h1">
+        <text src="Programming_Robots_with_ROS.xml#h1_000094" region="textRegion" />
+      </par>
+      <par id="code_000492" class="code">
+        <text src="Programming_Robots_with_ROS.xml#code_000492" region="textRegion" />
+      </par>
+      <par id="span_001053" class="span">
+        <text src="Programming_Robots_with_ROS.xml#span_001053" region="textRegion" />
+      </par>
+      <par id="code_000493" class="code">
+        <text src="Programming_Robots_with_ROS.xml#code_000493" region="textRegion" />
+      </par>
+      <par id="span_001054" class="span">
+        <text src="Programming_Robots_with_ROS.xml#span_001054" region="textRegion" />
+      </par>
+      <par id="span_001055" class="span">
+        <text src="Programming_Robots_with_ROS.xml#span_001055" region="textRegion" />
+      </par>
+      <par id="em_000165" class="em">
+        <text src="Programming_Robots_with_ROS.xml#em_000165" region="textRegion" />
+      </par>
+      <par id="span_001056" class="span">
+        <text src="Programming_Robots_with_ROS.xml#span_001056" region="textRegion" />
+      </par>
+      <par id="em_000166" class="em">
+        <text src="Programming_Robots_with_ROS.xml#em_000166" region="textRegion" />
+      </par>
+      <par id="span_001057" class="span">
+        <text src="Programming_Robots_with_ROS.xml#span_001057" region="textRegion" />
+      </par>
+      <par id="code_000494" class="code">
+        <text src="Programming_Robots_with_ROS.xml#code_000494" region="textRegion" />
+      </par>
+      <par id="span_001058" class="span">
+        <text src="Programming_Robots_with_ROS.xml#span_001058" region="textRegion" />
+      </par>
+      <par id="span_001059" class="span">
+        <text src="Programming_Robots_with_ROS.xml#span_001059" region="textRegion" />
+      </par>
+      <par id="code_000495" class="code">
+        <text src="Programming_Robots_with_ROS.xml#code_000495" region="textRegion" />
+      </par>
+      <par id="span_001060" class="span">
+        <text src="Programming_Robots_with_ROS.xml#span_001060" region="textRegion" />
+      </par>
+      <par id="code_000496" class="code">
+        <text src="Programming_Robots_with_ROS.xml#code_000496" region="textRegion" />
+      </par>
+      <par id="span_001061" class="span">
+        <text src="Programming_Robots_with_ROS.xml#span_001061" region="textRegion" />
+      </par>
+      <par id="em_000167" class="em">
+        <text src="Programming_Robots_with_ROS.xml#em_000167" region="textRegion" />
+      </par>
+      <par id="span_001062" class="span">
+        <text src="Programming_Robots_with_ROS.xml#span_001062" region="textRegion" />
+      </par>
+      <par id="code_000497" class="code">
+        <text src="Programming_Robots_with_ROS.xml#code_000497" region="textRegion" />
+      </par>
+      <par id="span_001063" class="span">
+        <text src="Programming_Robots_with_ROS.xml#span_001063" region="textRegion" />
+      </par>
+      <par id="code_000498" class="code">
+        <text src="Programming_Robots_with_ROS.xml#code_000498" region="textRegion" />
+      </par>
+      <par id="span_001064" class="span">
+        <text src="Programming_Robots_with_ROS.xml#span_001064" region="textRegion" />
+      </par>
+      <par id="code_000499" class="code">
+        <text src="Programming_Robots_with_ROS.xml#code_000499" region="textRegion" />
+      </par>
+      <par id="span_001065" class="span">
+        <text src="Programming_Robots_with_ROS.xml#span_001065" region="textRegion" />
+      </par>
+      <par id="code_000500" class="code">
+        <text src="Programming_Robots_with_ROS.xml#code_000500" region="textRegion" />
+      </par>
+      <par id="span_001066" class="span">
+        <text src="Programming_Robots_with_ROS.xml#span_001066" region="textRegion" />
+      </par>
+      <par id="code_000501" class="code">
+        <text src="Programming_Robots_with_ROS.xml#code_000501" region="textRegion" />
+      </par>
+      <par id="span_001067" class="span">
+        <text src="Programming_Robots_with_ROS.xml#span_001067" region="textRegion" />
+      </par>
+      <par id="code_000502" class="code">
+        <text src="Programming_Robots_with_ROS.xml#code_000502" region="textRegion" />
+      </par>
+      <par id="span_001068" class="span">
+        <text src="Programming_Robots_with_ROS.xml#span_001068" region="textRegion" />
+      </par>
+      <par id="code_000503" class="code">
+        <text src="Programming_Robots_with_ROS.xml#code_000503" region="textRegion" />
+      </par>
+      <par id="span_001069" class="span">
+        <text src="Programming_Robots_with_ROS.xml#span_001069" region="textRegion" />
+      </par>
+      <par id="code_000504" class="code">
+        <text src="Programming_Robots_with_ROS.xml#code_000504" region="textRegion" />
+      </par>
+      <par id="span_001070" class="span">
+        <text src="Programming_Robots_with_ROS.xml#span_001070" region="textRegion" />
+      </par>
+      <par id="code_000505" class="code">
+        <text src="Programming_Robots_with_ROS.xml#code_000505" region="textRegion" />
+      </par>
+      <par id="span_001071" class="span">
+        <text src="Programming_Robots_with_ROS.xml#span_001071" region="textRegion" />
+      </par>
+      <par id="code_000506" class="code">
+        <text src="Programming_Robots_with_ROS.xml#code_000506" region="textRegion" />
+      </par>
+      <par id="span_001072" class="span">
+        <text src="Programming_Robots_with_ROS.xml#span_001072" region="textRegion" />
+      </par>
+      <par id="code_000507" class="code">
+        <text src="Programming_Robots_with_ROS.xml#code_000507" region="textRegion" />
+      </par>
+      <par id="span_001073" class="span">
+        <text src="Programming_Robots_with_ROS.xml#span_001073" region="textRegion" />
+      </par>
+      <par id="code_000508" class="code">
+        <text src="Programming_Robots_with_ROS.xml#code_000508" region="textRegion" />
+      </par>
+      <par id="span_001074" class="span">
+        <text src="Programming_Robots_with_ROS.xml#span_001074" region="textRegion" />
+      </par>
+      <par id="code_000509" class="code">
+        <text src="Programming_Robots_with_ROS.xml#code_000509" region="textRegion" />
+      </par>
+      <par id="span_001075" class="span">
+        <text src="Programming_Robots_with_ROS.xml#span_001075" region="textRegion" />
+      </par>
+      <par id="em_000168" class="em">
+        <text src="Programming_Robots_with_ROS.xml#em_000168" region="textRegion" />
+      </par>
+      <par id="span_001076" class="span">
+        <text src="Programming_Robots_with_ROS.xml#span_001076" region="textRegion" />
+      </par>
+      <par id="em_000169" class="em">
+        <text src="Programming_Robots_with_ROS.xml#em_000169" region="textRegion" />
+      </par>
+      <par id="span_001077" class="span">
+        <text src="Programming_Robots_with_ROS.xml#span_001077" region="textRegion" />
+      </par>
+      <par id="em_000170" class="em">
+        <text src="Programming_Robots_with_ROS.xml#em_000170" region="textRegion" />
+      </par>
+      <par id="span_001078" class="span">
+        <text src="Programming_Robots_with_ROS.xml#span_001078" region="textRegion" />
+      </par>
+      <par id="em_000171" class="em">
+        <text src="Programming_Robots_with_ROS.xml#em_000171" region="textRegion" />
+      </par>
+      <par id="span_001079" class="span">
+        <text src="Programming_Robots_with_ROS.xml#span_001079" region="textRegion" />
+      </par>
+      <par id="em_000172" class="em">
+        <text src="Programming_Robots_with_ROS.xml#em_000172" region="textRegion" />
+      </par>
+      <par id="span_001080" class="span">
+        <text src="Programming_Robots_with_ROS.xml#span_001080" region="textRegion" />
+      </par>
+      <par id="em_000173" class="em">
+        <text src="Programming_Robots_with_ROS.xml#em_000173" region="textRegion" />
+      </par>
+      <par id="span_001081" class="span">
+        <text src="Programming_Robots_with_ROS.xml#span_001081" region="textRegion" />
+      </par>
+      <par id="em_000174" class="em">
+        <text src="Programming_Robots_with_ROS.xml#em_000174" region="textRegion" />
+      </par>
+      <par id="span_001082" class="span">
+        <text src="Programming_Robots_with_ROS.xml#span_001082" region="textRegion" />
+      </par>
+      <par id="em_000175" class="em">
+        <text src="Programming_Robots_with_ROS.xml#em_000175" region="textRegion" />
+      </par>
+      <par id="span_001083" class="span">
+        <text src="Programming_Robots_with_ROS.xml#span_001083" region="textRegion" />
+      </par>
+      <par id="h1_000095" class="h1">
+        <text src="Programming_Robots_with_ROS.xml#h1_000095" region="textRegion" />
+      </par>
+      <par id="ch05-ix_5-actions-asciidoc2" class="p">
+        <text src="Programming_Robots_with_ROS.xml#ch05-ix_5-actions-asciidoc2" region="textRegion" />
+      </par>
+      <par id="span_001084" class="span">
+        <text src="Programming_Robots_with_ROS.xml#span_001084" region="textRegion" />
+      </par>
+      <par id="code_000510" class="code">
+        <text src="Programming_Robots_with_ROS.xml#code_000510" region="textRegion" />
+      </par>
+      <par id="span_001085" class="span">
+        <text src="Programming_Robots_with_ROS.xml#span_001085" region="textRegion" />
+      </par>
+      <par id="code_000511" class="code">
+        <text src="Programming_Robots_with_ROS.xml#code_000511" region="textRegion" />
+      </par>
+      <par id="span_001086" class="span">
+        <text src="Programming_Robots_with_ROS.xml#span_001086" region="textRegion" />
+      </par>
+      <a href="#ch05-simple_action_server" external="false">
+        <par id="a_000071" class="a">
+          <text src="Programming_Robots_with_ROS.xml#a_000071" region="textRegion" />
+        </par>
+      </a>
+      <par id="span_001087" class="span">
+        <text src="Programming_Robots_with_ROS.xml#span_001087" region="textRegion" />
+      </par>
+      <par id="h1_000096" class="h1">
+        <text src="Programming_Robots_with_ROS.xml#h1_000096" region="textRegion" />
+      </par>
+      <par id="code_000512" class="code">
+        <text src="Programming_Robots_with_ROS.xml#code_000512" region="textRegion" />
+      </par>
+      <par id="span_001088" class="span">
+        <text src="Programming_Robots_with_ROS.xml#span_001088" region="textRegion" />
+      </par>
+      <par id="code_000513" class="code">
+        <text src="Programming_Robots_with_ROS.xml#code_000513" region="textRegion" />
+      </par>
+      <par id="span_001089" class="span">
+        <text src="Programming_Robots_with_ROS.xml#span_001089" region="textRegion" />
+      </par>
+      <par id="code_000514" class="code">
+        <text src="Programming_Robots_with_ROS.xml#code_000514" region="textRegion" />
+      </par>
+      <par id="span_001090" class="span">
+        <text src="Programming_Robots_with_ROS.xml#span_001090" region="textRegion" />
+      </par>
+      <par id="code_000515" class="code">
+        <text src="Programming_Robots_with_ROS.xml#code_000515" region="textRegion" />
+      </par>
+      <par id="span_001091" class="span">
+        <text src="Programming_Robots_with_ROS.xml#span_001091" region="textRegion" />
+      </par>
+      <par id="em_000176" class="em">
+        <text src="Programming_Robots_with_ROS.xml#em_000176" region="textRegion" />
+      </par>
+      <par id="span_001092" class="span">
+        <text src="Programming_Robots_with_ROS.xml#span_001092" region="textRegion" />
+      </par>
+      <par id="code_000516" class="code">
+        <text src="Programming_Robots_with_ROS.xml#code_000516" region="textRegion" />
+      </par>
+      <par id="span_001093" class="span">
+        <text src="Programming_Robots_with_ROS.xml#span_001093" region="textRegion" />
+      </par>
+      <par id="code_000517" class="code">
+        <text src="Programming_Robots_with_ROS.xml#code_000517" region="textRegion" />
+      </par>
+      <par id="span_001094" class="span">
+        <text src="Programming_Robots_with_ROS.xml#span_001094" region="textRegion" />
+      </par>
+      <par id="code_000518" class="code">
+        <text src="Programming_Robots_with_ROS.xml#code_000518" region="textRegion" />
+      </par>
+      <par id="span_001095" class="span">
+        <text src="Programming_Robots_with_ROS.xml#span_001095" region="textRegion" />
+      </par>
+      <par id="code_000519" class="code">
+        <text src="Programming_Robots_with_ROS.xml#code_000519" region="textRegion" />
+      </par>
+      <par id="span_001096" class="span">
+        <text src="Programming_Robots_with_ROS.xml#span_001096" region="textRegion" />
+      </par>
+      <par id="code_000520" class="code">
+        <text src="Programming_Robots_with_ROS.xml#code_000520" region="textRegion" />
+      </par>
+      <par id="span_001097" class="span">
+        <text src="Programming_Robots_with_ROS.xml#span_001097" region="textRegion" />
+      </par>
+      <par id="em_000177" class="em">
+        <text src="Programming_Robots_with_ROS.xml#em_000177" region="textRegion" />
+      </par>
+      <par id="span_001098" class="span">
+        <text src="Programming_Robots_with_ROS.xml#span_001098" region="textRegion" />
+      </par>
+      <par id="code_000521" class="code">
+        <text src="Programming_Robots_with_ROS.xml#code_000521" region="textRegion" />
+      </par>
+      <par id="span_001099" class="span">
+        <text src="Programming_Robots_with_ROS.xml#span_001099" region="textRegion" />
+      </par>
+      <par id="code_000522" class="code">
+        <text src="Programming_Robots_with_ROS.xml#code_000522" region="textRegion" />
+      </par>
+      <par id="span_001100" class="span">
+        <text src="Programming_Robots_with_ROS.xml#span_001100" region="textRegion" />
+      </par>
+      <par id="code_000523" class="code">
+        <text src="Programming_Robots_with_ROS.xml#code_000523" region="textRegion" />
+      </par>
+      <par id="span_001101" class="span">
+        <text src="Programming_Robots_with_ROS.xml#span_001101" region="textRegion" />
+      </par>
+      <par id="code_000524" class="code">
+        <text src="Programming_Robots_with_ROS.xml#code_000524" region="textRegion" />
+      </par>
+      <par id="span_001102" class="span">
+        <text src="Programming_Robots_with_ROS.xml#span_001102" region="textRegion" />
+      </par>
+      <par id="em_000178" class="em">
+        <text src="Programming_Robots_with_ROS.xml#em_000178" region="textRegion" />
+      </par>
+      <par id="span_001103" class="span">
+        <text src="Programming_Robots_with_ROS.xml#span_001103" region="textRegion" />
+      </par>
+      <par id="code_000525" class="code">
+        <text src="Programming_Robots_with_ROS.xml#code_000525" region="textRegion" />
+      </par>
+      <par id="span_001104" class="span">
+        <text src="Programming_Robots_with_ROS.xml#span_001104" region="textRegion" />
+      </par>
+      <par id="code_000526" class="code">
+        <text src="Programming_Robots_with_ROS.xml#code_000526" region="textRegion" />
+      </par>
+      <par id="span_001105" class="span">
+        <text src="Programming_Robots_with_ROS.xml#span_001105" region="textRegion" />
+      </par>
+      <par id="code_000527" class="code">
+        <text src="Programming_Robots_with_ROS.xml#code_000527" region="textRegion" />
+      </par>
+      <par id="span_001106" class="span">
+        <text src="Programming_Robots_with_ROS.xml#span_001106" region="textRegion" />
+      </par>
+      <par id="code_000528" class="code">
+        <text src="Programming_Robots_with_ROS.xml#code_000528" region="textRegion" />
+      </par>
+      <par id="span_001107" class="span">
+        <text src="Programming_Robots_with_ROS.xml#span_001107" region="textRegion" />
+      </par>
+      <par id="code_000529" class="code">
+        <text src="Programming_Robots_with_ROS.xml#code_000529" region="textRegion" />
+      </par>
+      <par id="span_001108" class="span">
+        <text src="Programming_Robots_with_ROS.xml#span_001108" region="textRegion" />
+      </par>
+      <par id="code_000530" class="code">
+        <text src="Programming_Robots_with_ROS.xml#code_000530" region="textRegion" />
+      </par>
+      <par id="span_001109" class="span">
+        <text src="Programming_Robots_with_ROS.xml#span_001109" region="textRegion" />
+      </par>
+      <par id="code_000531" class="code">
+        <text src="Programming_Robots_with_ROS.xml#code_000531" region="textRegion" />
+      </par>
+      <par id="span_001110" class="span">
+        <text src="Programming_Robots_with_ROS.xml#span_001110" region="textRegion" />
+      </par>
+      <par id="code_000532" class="code">
+        <text src="Programming_Robots_with_ROS.xml#code_000532" region="textRegion" />
+      </par>
+      <par id="span_001111" class="span">
+        <text src="Programming_Robots_with_ROS.xml#span_001111" region="textRegion" />
+      </par>
+      <par id="code_000533" class="code">
+        <text src="Programming_Robots_with_ROS.xml#code_000533" region="textRegion" />
+      </par>
+      <par id="span_001112" class="span">
+        <text src="Programming_Robots_with_ROS.xml#span_001112" region="textRegion" />
+      </par>
+      <par id="code_000534" class="code">
+        <text src="Programming_Robots_with_ROS.xml#code_000534" region="textRegion" />
+      </par>
+      <par id="span_001113" class="span">
+        <text src="Programming_Robots_with_ROS.xml#span_001113" region="textRegion" />
+      </par>
+      <par id="code_000535" class="code">
+        <text src="Programming_Robots_with_ROS.xml#code_000535" region="textRegion" />
+      </par>
+      <par id="span_001114" class="span">
+        <text src="Programming_Robots_with_ROS.xml#span_001114" region="textRegion" />
+      </par>
+      <par id="code_000536" class="code">
+        <text src="Programming_Robots_with_ROS.xml#code_000536" region="textRegion" />
+      </par>
+      <par id="span_001115" class="span">
+        <text src="Programming_Robots_with_ROS.xml#span_001115" region="textRegion" />
+      </par>
+      <par id="code_000537" class="code">
+        <text src="Programming_Robots_with_ROS.xml#code_000537" region="textRegion" />
+      </par>
+      <par id="span_001116" class="span">
+        <text src="Programming_Robots_with_ROS.xml#span_001116" region="textRegion" />
+      </par>
+      <par id="code_000538" class="code">
+        <text src="Programming_Robots_with_ROS.xml#code_000538" region="textRegion" />
+      </par>
+      <par id="span_001117" class="span">
+        <text src="Programming_Robots_with_ROS.xml#span_001117" region="textRegion" />
+      </par>
+      <par id="code_000539" class="code">
+        <text src="Programming_Robots_with_ROS.xml#code_000539" region="textRegion" />
+      </par>
+      <par id="h1_000097" class="h1">
+        <text src="Programming_Robots_with_ROS.xml#h1_000097" region="textRegion" />
+      </par>
+      <par id="span_001118" class="span">
+        <text src="Programming_Robots_with_ROS.xml#span_001118" region="textRegion" />
+      </par>
+      <par id="em_000179" class="em">
+        <text src="Programming_Robots_with_ROS.xml#em_000179" region="textRegion" />
+      </par>
+      <par id="span_001119" class="span">
+        <text src="Programming_Robots_with_ROS.xml#span_001119" region="textRegion" />
+      </par>
+      <par id="code_000540" class="code">
+        <text src="Programming_Robots_with_ROS.xml#code_000540" region="textRegion" />
+      </par>
+      <par id="span_001120" class="span">
+        <text src="Programming_Robots_with_ROS.xml#span_001120" region="textRegion" />
+      </par>
+      <par id="h1_000098" class="h1">
+        <text src="Programming_Robots_with_ROS.xml#h1_000098" region="textRegion" />
+      </par>
+      <par id="span_001121" class="span">
+        <text src="Programming_Robots_with_ROS.xml#span_001121" region="textRegion" />
+      </par>
+      <par id="code_000541" class="code">
+        <text src="Programming_Robots_with_ROS.xml#code_000541" region="textRegion" />
+      </par>
+      <par id="span_001122" class="span">
+        <text src="Programming_Robots_with_ROS.xml#span_001122" region="textRegion" />
+      </par>
+      <par id="span_001123" class="span">
+        <text src="Programming_Robots_with_ROS.xml#span_001123" region="textRegion" />
+      </par>
+      <par id="strong_000058" class="strong">
+        <text src="Programming_Robots_with_ROS.xml#strong_000058" region="textRegion" />
+      </par>
+      <par id="p_000401" class="p">
+        <text src="Programming_Robots_with_ROS.xml#p_000401" region="textRegion" />
+      </par>
+      <par id="span_001124" class="span">
+        <text src="Programming_Robots_with_ROS.xml#span_001124" region="textRegion" />
+      </par>
+      <par id="strong_000059" class="strong">
+        <text src="Programming_Robots_with_ROS.xml#strong_000059" region="textRegion" />
+      </par>
+      <par id="span_001125" class="span">
+        <text src="Programming_Robots_with_ROS.xml#span_001125" region="textRegion" />
+      </par>
+      <par id="span_001126" class="span">
+        <text src="Programming_Robots_with_ROS.xml#span_001126" region="textRegion" />
+      </par>
+      <par id="code_000544" class="code">
+        <text src="Programming_Robots_with_ROS.xml#code_000544" region="textRegion" />
+      </par>
+      <par id="span_001127" class="span">
+        <text src="Programming_Robots_with_ROS.xml#span_001127" region="textRegion" />
+      </par>
+      <par id="code_000545" class="code">
+        <text src="Programming_Robots_with_ROS.xml#code_000545" region="textRegion" />
+      </par>
+      <par id="span_001128" class="span">
+        <text src="Programming_Robots_with_ROS.xml#span_001128" region="textRegion" />
+      </par>
+      <par id="code_000546" class="code">
+        <text src="Programming_Robots_with_ROS.xml#code_000546" region="textRegion" />
+      </par>
+      <par id="span_001129" class="span">
+        <text src="Programming_Robots_with_ROS.xml#span_001129" region="textRegion" />
+      </par>
+      <par id="span_001130" class="span">
+        <text src="Programming_Robots_with_ROS.xml#span_001130" region="textRegion" />
+      </par>
+      <par id="strong_000060" class="strong">
+        <text src="Programming_Robots_with_ROS.xml#strong_000060" region="textRegion" />
+      </par>
+      <par id="span_001131" class="span">
+        <text src="Programming_Robots_with_ROS.xml#span_001131" region="textRegion" />
+      </par>
+      <par id="span_001132" class="span">
+        <text src="Programming_Robots_with_ROS.xml#span_001132" region="textRegion" />
+      </par>
+      <par id="code_000548" class="code">
+        <text src="Programming_Robots_with_ROS.xml#code_000548" region="textRegion" />
+      </par>
+      <par id="span_001133" class="span">
+        <text src="Programming_Robots_with_ROS.xml#span_001133" region="textRegion" />
+      </par>
+      <par id="code_000549" class="code">
+        <text src="Programming_Robots_with_ROS.xml#code_000549" region="textRegion" />
+      </par>
+      <par id="span_001134" class="span">
+        <text src="Programming_Robots_with_ROS.xml#span_001134" region="textRegion" />
+      </par>
+      <par id="span_001135" class="span">
+        <text src="Programming_Robots_with_ROS.xml#span_001135" region="textRegion" />
+      </par>
+      <par id="strong_000061" class="strong">
+        <text src="Programming_Robots_with_ROS.xml#strong_000061" region="textRegion" />
+      </par>
+      <par id="span_001136" class="span">
+        <text src="Programming_Robots_with_ROS.xml#span_001136" region="textRegion" />
+      </par>
+      <par id="span_001137" class="span">
+        <text src="Programming_Robots_with_ROS.xml#span_001137" region="textRegion" />
+      </par>
+      <par id="code_000551" class="code">
+        <text src="Programming_Robots_with_ROS.xml#code_000551" region="textRegion" />
+      </par>
+      <par id="span_001138" class="span">
+        <text src="Programming_Robots_with_ROS.xml#span_001138" region="textRegion" />
+      </par>
+      <par id="code_000552" class="code">
+        <text src="Programming_Robots_with_ROS.xml#code_000552" region="textRegion" />
+      </par>
+      <par id="span_001139" class="span">
+        <text src="Programming_Robots_with_ROS.xml#span_001139" region="textRegion" />
+      </par>
+      <par id="code_000553" class="code">
+        <text src="Programming_Robots_with_ROS.xml#code_000553" region="textRegion" />
+      </par>
+      <par id="span_001140" class="span">
+        <text src="Programming_Robots_with_ROS.xml#span_001140" region="textRegion" />
+      </par>
+      <par id="em_000180" class="em">
+        <text src="Programming_Robots_with_ROS.xml#em_000180" region="textRegion" />
+      </par>
+      <par id="span_001141" class="span">
+        <text src="Programming_Robots_with_ROS.xml#span_001141" region="textRegion" />
+      </par>
+      <par id="span_001142" class="span">
+        <text src="Programming_Robots_with_ROS.xml#span_001142" region="textRegion" />
+      </par>
+      <par id="strong_000062" class="strong">
+        <text src="Programming_Robots_with_ROS.xml#strong_000062" region="textRegion" />
+      </par>
+      <par id="span_001143" class="span">
+        <text src="Programming_Robots_with_ROS.xml#span_001143" region="textRegion" />
+      </par>
+      <par id="span_001144" class="span">
+        <text src="Programming_Robots_with_ROS.xml#span_001144" region="textRegion" />
+      </par>
+      <par id="code_000555" class="code">
+        <text src="Programming_Robots_with_ROS.xml#code_000555" region="textRegion" />
+      </par>
+      <par id="span_001145" class="span">
+        <text src="Programming_Robots_with_ROS.xml#span_001145" region="textRegion" />
+      </par>
+      <par id="code_000556" class="code">
+        <text src="Programming_Robots_with_ROS.xml#code_000556" region="textRegion" />
+      </par>
+      <par id="span_001146" class="span">
+        <text src="Programming_Robots_with_ROS.xml#span_001146" region="textRegion" />
+      </par>
+      <par id="code_000557" class="code">
+        <text src="Programming_Robots_with_ROS.xml#code_000557" region="textRegion" />
+      </par>
+      <par id="span_001147" class="span">
+        <text src="Programming_Robots_with_ROS.xml#span_001147" region="textRegion" />
+      </par>
+      <par id="code_000558" class="code">
+        <text src="Programming_Robots_with_ROS.xml#code_000558" region="textRegion" />
+      </par>
+      <par id="span_001148" class="span">
+        <text src="Programming_Robots_with_ROS.xml#span_001148" region="textRegion" />
+      </par>
+      <par id="code_000559" class="code">
+        <text src="Programming_Robots_with_ROS.xml#code_000559" region="textRegion" />
+      </par>
+      <par id="span_001149" class="span">
+        <text src="Programming_Robots_with_ROS.xml#span_001149" region="textRegion" />
+      </par>
+      <par id="span_001150" class="span">
+        <text src="Programming_Robots_with_ROS.xml#span_001150" region="textRegion" />
+      </par>
+      <par id="code_000560" class="code">
+        <text src="Programming_Robots_with_ROS.xml#code_000560" region="textRegion" />
+      </par>
+      <par id="span_001151" class="span">
+        <text src="Programming_Robots_with_ROS.xml#span_001151" region="textRegion" />
+      </par>
+      <par id="code_000561" class="code">
+        <text src="Programming_Robots_with_ROS.xml#code_000561" region="textRegion" />
+      </par>
+      <par id="span_001152" class="span">
+        <text src="Programming_Robots_with_ROS.xml#span_001152" region="textRegion" />
+      </par>
+      <par id="h1_000099" class="h1">
+        <text src="Programming_Robots_with_ROS.xml#h1_000099" region="textRegion" />
+      </par>
+      <par id="span_001153" class="span">
+        <text src="Programming_Robots_with_ROS.xml#span_001153" region="textRegion" />
+      </par>
+      <par id="code_000562" class="code">
+        <text src="Programming_Robots_with_ROS.xml#code_000562" region="textRegion" />
+      </par>
+      <par id="span_001154" class="span">
+        <text src="Programming_Robots_with_ROS.xml#span_001154" region="textRegion" />
+      </par>
+      <par id="ch05-idp20156032" class="code">
+        <text src="Programming_Robots_with_ROS.xml#ch05-idp20156032" region="textRegion" />
+      </par>
+      <par id="span_001155" class="span">
+        <text src="Programming_Robots_with_ROS.xml#span_001155" region="textRegion" />
+      </par>
+      <a href="#ch05-simple_action_client" external="false">
+        <par id="a_000072" class="a">
+          <text src="Programming_Robots_with_ROS.xml#a_000072" region="textRegion" />
+        </par>
+      </a>
+      <par id="span_001156" class="span">
+        <text src="Programming_Robots_with_ROS.xml#span_001156" region="textRegion" />
+      </par>
+      <par id="h1_000100" class="h1">
+        <text src="Programming_Robots_with_ROS.xml#h1_000100" region="textRegion" />
+      </par>
+      <par id="code_000563" class="code">
+        <text src="Programming_Robots_with_ROS.xml#code_000563" region="textRegion" />
+      </par>
+      <par id="span_001157" class="span">
+        <text src="Programming_Robots_with_ROS.xml#span_001157" region="textRegion" />
+      </par>
+      <par id="code_000564" class="code">
+        <text src="Programming_Robots_with_ROS.xml#code_000564" region="textRegion" />
+      </par>
+      <par id="span_001158" class="span">
+        <text src="Programming_Robots_with_ROS.xml#span_001158" region="textRegion" />
+      </par>
+      <par id="code_000565" class="code">
+        <text src="Programming_Robots_with_ROS.xml#code_000565" region="textRegion" />
+      </par>
+      <par id="span_001159" class="span">
+        <text src="Programming_Robots_with_ROS.xml#span_001159" region="textRegion" />
+      </par>
+      <par id="code_000566" class="code">
+        <text src="Programming_Robots_with_ROS.xml#code_000566" region="textRegion" />
+      </par>
+      <par id="span_001160" class="span">
+        <text src="Programming_Robots_with_ROS.xml#span_001160" region="textRegion" />
+      </par>
+      <par id="span_001161" class="span">
+        <text src="Programming_Robots_with_ROS.xml#span_001161" region="textRegion" />
+      </par>
+      <par id="code_000567" class="code">
+        <text src="Programming_Robots_with_ROS.xml#code_000567" region="textRegion" />
+      </par>
+      <par id="span_001162" class="span">
+        <text src="Programming_Robots_with_ROS.xml#span_001162" region="textRegion" />
+      </par>
+      <par id="code_000568" class="code">
+        <text src="Programming_Robots_with_ROS.xml#code_000568" region="textRegion" />
+      </par>
+      <par id="span_001163" class="span">
+        <text src="Programming_Robots_with_ROS.xml#span_001163" region="textRegion" />
+      </par>
+      <par id="code_000569" class="code">
+        <text src="Programming_Robots_with_ROS.xml#code_000569" region="textRegion" />
+      </par>
+      <par id="span_001164" class="span">
+        <text src="Programming_Robots_with_ROS.xml#span_001164" region="textRegion" />
+      </par>
+      <par id="code_000570" class="code">
+        <text src="Programming_Robots_with_ROS.xml#code_000570" region="textRegion" />
+      </par>
+      <par id="span_001165" class="span">
+        <text src="Programming_Robots_with_ROS.xml#span_001165" region="textRegion" />
+      </par>
+      <par id="code_000571" class="code">
+        <text src="Programming_Robots_with_ROS.xml#code_000571" region="textRegion" />
+      </par>
+      <par id="span_001166" class="span">
+        <text src="Programming_Robots_with_ROS.xml#span_001166" region="textRegion" />
+      </par>
+      <par id="code_000572" class="code">
+        <text src="Programming_Robots_with_ROS.xml#code_000572" region="textRegion" />
+      </par>
+      <par id="span_001167" class="span">
+        <text src="Programming_Robots_with_ROS.xml#span_001167" region="textRegion" />
+      </par>
+      <par id="code_000573" class="code">
+        <text src="Programming_Robots_with_ROS.xml#code_000573" region="textRegion" />
+      </par>
+      <par id="span_001168" class="span">
+        <text src="Programming_Robots_with_ROS.xml#span_001168" region="textRegion" />
+      </par>
+      <par id="code_000574" class="code">
+        <text src="Programming_Robots_with_ROS.xml#code_000574" region="textRegion" />
+      </par>
+      <par id="h1_000101" class="h1">
+        <text src="Programming_Robots_with_ROS.xml#h1_000101" region="textRegion" />
+      </par>
+      <par id="span_001169" class="span">
+        <text src="Programming_Robots_with_ROS.xml#span_001169" region="textRegion" />
+      </par>
+      <par id="code_000575" class="code">
+        <text src="Programming_Robots_with_ROS.xml#code_000575" region="textRegion" />
+      </par>
+      <par id="span_001170" class="span">
+        <text src="Programming_Robots_with_ROS.xml#span_001170" region="textRegion" />
+      </par>
+      <par id="span_001171" class="span">
+        <text src="Programming_Robots_with_ROS.xml#span_001171" region="textRegion" />
+      </par>
+      <par id="strong_000063" class="strong">
+        <text src="Programming_Robots_with_ROS.xml#strong_000063" region="textRegion" />
+      </par>
+      <par id="span_001172" class="span">
+        <text src="Programming_Robots_with_ROS.xml#span_001172" region="textRegion" />
+      </par>
+      <par id="span_001173" class="span">
+        <text src="Programming_Robots_with_ROS.xml#span_001173" region="textRegion" />
+      </par>
+      <par id="code_000577" class="code">
+        <text src="Programming_Robots_with_ROS.xml#code_000577" region="textRegion" />
+      </par>
+      <par id="span_001174" class="span">
+        <text src="Programming_Robots_with_ROS.xml#span_001174" region="textRegion" />
+      </par>
+      <par id="h1_000102" class="h1">
+        <text src="Programming_Robots_with_ROS.xml#h1_000102" region="textRegion" />
+      </par>
+      <par id="span_001175" class="span">
+        <text src="Programming_Robots_with_ROS.xml#span_001175" region="textRegion" />
+      </par>
+      <a href="#ch05-fancy_action_server" external="false">
+        <par id="a_000073" class="a">
+          <text src="Programming_Robots_with_ROS.xml#a_000073" region="textRegion" />
+        </par>
+      </a>
+      <par id="span_001176" class="span">
+        <text src="Programming_Robots_with_ROS.xml#span_001176" region="textRegion" />
+      </par>
+      <par id="h1_000103" class="h1">
+        <text src="Programming_Robots_with_ROS.xml#h1_000103" region="textRegion" />
+      </par>
+      <par id="code_000578" class="code">
+        <text src="Programming_Robots_with_ROS.xml#code_000578" region="textRegion" />
+      </par>
+      <par id="span_001177" class="span">
+        <text src="Programming_Robots_with_ROS.xml#span_001177" region="textRegion" />
+      </par>
+      <a href="#ch05-simple_action_server" external="false">
+        <par id="a_000074" class="a">
+          <text src="Programming_Robots_with_ROS.xml#a_000074" region="textRegion" />
+        </par>
+      </a>
+      <par id="span_001178" class="span">
+        <text src="Programming_Robots_with_ROS.xml#span_001178" region="textRegion" />
+      </par>
+      <par id="code_000579" class="code">
+        <text src="Programming_Robots_with_ROS.xml#code_000579" region="textRegion" />
+      </par>
+      <par id="span_001179" class="span">
+        <text src="Programming_Robots_with_ROS.xml#span_001179" region="textRegion" />
+      </par>
+      <par id="code_000580" class="code">
+        <text src="Programming_Robots_with_ROS.xml#code_000580" region="textRegion" />
+      </par>
+      <par id="span_001180" class="span">
+        <text src="Programming_Robots_with_ROS.xml#span_001180" region="textRegion" />
+      </par>
+      <par id="code_000581" class="code">
+        <text src="Programming_Robots_with_ROS.xml#code_000581" region="textRegion" />
+      </par>
+      <par id="span_001181" class="span">
+        <text src="Programming_Robots_with_ROS.xml#span_001181" region="textRegion" />
+      </par>
+      <par id="code_000582" class="code">
+        <text src="Programming_Robots_with_ROS.xml#code_000582" region="textRegion" />
+      </par>
+      <par id="span_001182" class="span">
+        <text src="Programming_Robots_with_ROS.xml#span_001182" region="textRegion" />
+      </par>
+      <par id="code_000583" class="code">
+        <text src="Programming_Robots_with_ROS.xml#code_000583" region="textRegion" />
+      </par>
+      <par id="span_001183" class="span">
+        <text src="Programming_Robots_with_ROS.xml#span_001183" region="textRegion" />
+      </par>
+      <par id="code_000584" class="code">
+        <text src="Programming_Robots_with_ROS.xml#code_000584" region="textRegion" />
+      </par>
+      <par id="span_001184" class="span">
+        <text src="Programming_Robots_with_ROS.xml#span_001184" region="textRegion" />
+      </par>
+      <par id="code_000585" class="code">
+        <text src="Programming_Robots_with_ROS.xml#code_000585" region="textRegion" />
+      </par>
+      <par id="span_001185" class="span">
+        <text src="Programming_Robots_with_ROS.xml#span_001185" region="textRegion" />
+      </par>
+      <par id="code_000586" class="code">
+        <text src="Programming_Robots_with_ROS.xml#code_000586" region="textRegion" />
+      </par>
+      <par id="p_000426" class="p">
+        <text src="Programming_Robots_with_ROS.xml#p_000426" region="textRegion" />
+      </par>
+      <par id="code_000587" class="code">
+        <text src="Programming_Robots_with_ROS.xml#code_000587" region="textRegion" />
+      </par>
+      <par id="span_001186" class="span">
+        <text src="Programming_Robots_with_ROS.xml#span_001186" region="textRegion" />
+      </par>
+      <par id="code_000588" class="code">
+        <text src="Programming_Robots_with_ROS.xml#code_000588" region="textRegion" />
+      </par>
+      <par id="span_001187" class="span">
+        <text src="Programming_Robots_with_ROS.xml#span_001187" region="textRegion" />
+      </par>
+      <par id="code_000589" class="code">
+        <text src="Programming_Robots_with_ROS.xml#code_000589" region="textRegion" />
+      </par>
+      <par id="span_001188" class="span">
+        <text src="Programming_Robots_with_ROS.xml#span_001188" region="textRegion" />
+      </par>
+      <par id="code_000590" class="code">
+        <text src="Programming_Robots_with_ROS.xml#code_000590" region="textRegion" />
+      </par>
+      <par id="span_001189" class="span">
+        <text src="Programming_Robots_with_ROS.xml#span_001189" region="textRegion" />
+      </par>
+      <par id="code_000591" class="code">
+        <text src="Programming_Robots_with_ROS.xml#code_000591" region="textRegion" />
+      </par>
+      <par id="span_001190" class="span">
+        <text src="Programming_Robots_with_ROS.xml#span_001190" region="textRegion" />
+      </par>
+      <par id="code_000592" class="code">
+        <text src="Programming_Robots_with_ROS.xml#code_000592" region="textRegion" />
+      </par>
+      <par id="span_001191" class="span">
+        <text src="Programming_Robots_with_ROS.xml#span_001191" region="textRegion" />
+      </par>
+      <par id="em_000181" class="em">
+        <text src="Programming_Robots_with_ROS.xml#em_000181" region="textRegion" />
+      </par>
+      <par id="span_001192" class="span">
+        <text src="Programming_Robots_with_ROS.xml#span_001192" region="textRegion" />
+      </par>
+      <par id="code_000593" class="code">
+        <text src="Programming_Robots_with_ROS.xml#code_000593" region="textRegion" />
+      </par>
+      <par id="span_001193" class="span">
+        <text src="Programming_Robots_with_ROS.xml#span_001193" region="textRegion" />
+      </par>
+      <par id="code_000594" class="code">
+        <text src="Programming_Robots_with_ROS.xml#code_000594" region="textRegion" />
+      </par>
+      <par id="span_001194" class="span">
+        <text src="Programming_Robots_with_ROS.xml#span_001194" region="textRegion" />
+      </par>
+      <par id="code_000595" class="code">
+        <text src="Programming_Robots_with_ROS.xml#code_000595" region="textRegion" />
+      </par>
+      <par id="span_001195" class="span">
+        <text src="Programming_Robots_with_ROS.xml#span_001195" region="textRegion" />
+      </par>
+      <par id="code_000596" class="code">
+        <text src="Programming_Robots_with_ROS.xml#code_000596" region="textRegion" />
+      </par>
+      <par id="span_001196" class="span">
+        <text src="Programming_Robots_with_ROS.xml#span_001196" region="textRegion" />
+      </par>
+      <par id="code_000597" class="code">
+        <text src="Programming_Robots_with_ROS.xml#code_000597" region="textRegion" />
+      </par>
+      <par id="p_000432" class="p">
+        <text src="Programming_Robots_with_ROS.xml#p_000432" region="textRegion" />
+      </par>
+      <par id="code_000598" class="code">
+        <text src="Programming_Robots_with_ROS.xml#code_000598" region="textRegion" />
+      </par>
+      <par id="span_001197" class="span">
+        <text src="Programming_Robots_with_ROS.xml#span_001197" region="textRegion" />
+      </par>
+      <par id="code_000599" class="code">
+        <text src="Programming_Robots_with_ROS.xml#code_000599" region="textRegion" />
+      </par>
+      <par id="span_001198" class="span">
+        <text src="Programming_Robots_with_ROS.xml#span_001198" region="textRegion" />
+      </par>
+      <par id="code_000600" class="code">
+        <text src="Programming_Robots_with_ROS.xml#code_000600" region="textRegion" />
+      </par>
+      <par id="span_001199" class="span">
+        <text src="Programming_Robots_with_ROS.xml#span_001199" region="textRegion" />
+      </par>
+      <a href="#ch05-simple_action_server" external="false">
+        <par id="a_000075" class="a">
+          <text src="Programming_Robots_with_ROS.xml#a_000075" region="textRegion" />
+        </par>
+      </a>
+      <par id="span_001200" class="span">
+        <text src="Programming_Robots_with_ROS.xml#span_001200" region="textRegion" />
+      </par>
+      <par id="h1_000104" class="h1">
+        <text src="Programming_Robots_with_ROS.xml#h1_000104" region="textRegion" />
+      </par>
+      <par id="span_001201" class="span">
+        <text src="Programming_Robots_with_ROS.xml#span_001201" region="textRegion" />
+      </par>
+      <a href="#ch05-fancy_action_client" external="false">
+        <par id="a_000076" class="a">
+          <text src="Programming_Robots_with_ROS.xml#a_000076" region="textRegion" />
+        </par>
+      </a>
+      <par id="span_001202" class="span">
+        <text src="Programming_Robots_with_ROS.xml#span_001202" region="textRegion" />
+      </par>
+      <par id="h1_000105" class="h1">
+        <text src="Programming_Robots_with_ROS.xml#h1_000105" region="textRegion" />
+      </par>
+      <par id="code_000601" class="code">
+        <text src="Programming_Robots_with_ROS.xml#code_000601" region="textRegion" />
+      </par>
+      <par id="span_001203" class="span">
+        <text src="Programming_Robots_with_ROS.xml#span_001203" region="textRegion" />
+      </par>
+      <a href="#ch05-simple_action_client" external="false">
+        <par id="a_000077" class="a">
+          <text src="Programming_Robots_with_ROS.xml#a_000077" region="textRegion" />
+        </par>
+      </a>
+      <par id="span_001204" class="span">
+        <text src="Programming_Robots_with_ROS.xml#span_001204" region="textRegion" />
+      </par>
+      <par id="code_000602" class="code">
+        <text src="Programming_Robots_with_ROS.xml#code_000602" region="textRegion" />
+      </par>
+      <par id="span_001205" class="span">
+        <text src="Programming_Robots_with_ROS.xml#span_001205" region="textRegion" />
+      </par>
+      <par id="code_000603" class="code">
+        <text src="Programming_Robots_with_ROS.xml#code_000603" region="textRegion" />
+      </par>
+      <par id="span_001206" class="span">
+        <text src="Programming_Robots_with_ROS.xml#span_001206" region="textRegion" />
+      </par>
+      <par id="code_000604" class="code">
+        <text src="Programming_Robots_with_ROS.xml#code_000604" region="textRegion" />
+      </par>
+      <par id="span_001207" class="span">
+        <text src="Programming_Robots_with_ROS.xml#span_001207" region="textRegion" />
+      </par>
+      <par id="code_000605" class="code">
+        <text src="Programming_Robots_with_ROS.xml#code_000605" region="textRegion" />
+      </par>
+      <par id="span_001208" class="span">
+        <text src="Programming_Robots_with_ROS.xml#span_001208" region="textRegion" />
+      </par>
+      <par id="code_000606" class="code">
+        <text src="Programming_Robots_with_ROS.xml#code_000606" region="textRegion" />
+      </par>
+      <par id="span_001209" class="span">
+        <text src="Programming_Robots_with_ROS.xml#span_001209" region="textRegion" />
+      </par>
+      <par id="code_000607" class="code">
+        <text src="Programming_Robots_with_ROS.xml#code_000607" region="textRegion" />
+      </par>
+      <par id="span_001210" class="span">
+        <text src="Programming_Robots_with_ROS.xml#span_001210" region="textRegion" />
+      </par>
+      <par id="code_000608" class="code">
+        <text src="Programming_Robots_with_ROS.xml#code_000608" region="textRegion" />
+      </par>
+      <par id="span_001211" class="span">
+        <text src="Programming_Robots_with_ROS.xml#span_001211" region="textRegion" />
+      </par>
+      <par id="code_000609" class="code">
+        <text src="Programming_Robots_with_ROS.xml#code_000609" region="textRegion" />
+      </par>
+      <par id="span_001212" class="span">
+        <text src="Programming_Robots_with_ROS.xml#span_001212" region="textRegion" />
+      </par>
+      <par id="code_000610" class="code">
+        <text src="Programming_Robots_with_ROS.xml#code_000610" region="textRegion" />
+      </par>
+      <par id="span_001213" class="span">
+        <text src="Programming_Robots_with_ROS.xml#span_001213" region="textRegion" />
+      </par>
+      <par id="code_000611" class="code">
+        <text src="Programming_Robots_with_ROS.xml#code_000611" region="textRegion" />
+      </par>
+      <par id="span_001214" class="span">
+        <text src="Programming_Robots_with_ROS.xml#span_001214" region="textRegion" />
+      </par>
+      <par id="code_000612" class="code">
+        <text src="Programming_Robots_with_ROS.xml#code_000612" region="textRegion" />
+      </par>
+      <par id="h1_000106" class="h1">
+        <text src="Programming_Robots_with_ROS.xml#h1_000106" region="textRegion" />
+      </par>
+      <par id="span_001215" class="span">
+        <text src="Programming_Robots_with_ROS.xml#span_001215" region="textRegion" />
+      </par>
+      <par id="code_000613" class="code">
+        <text src="Programming_Robots_with_ROS.xml#code_000613" region="textRegion" />
+      </par>
+      <par id="span_001216" class="span">
+        <text src="Programming_Robots_with_ROS.xml#span_001216" region="textRegion" />
+      </par>
+      <par id="span_001217" class="span">
+        <text src="Programming_Robots_with_ROS.xml#span_001217" region="textRegion" />
+      </par>
+      <par id="strong_000064" class="strong">
+        <text src="Programming_Robots_with_ROS.xml#strong_000064" region="textRegion" />
+      </par>
+      <par id="p_000445" class="p">
+        <text src="Programming_Robots_with_ROS.xml#p_000445" region="textRegion" />
+      </par>
+      <par id="span_001218" class="span">
+        <text src="Programming_Robots_with_ROS.xml#span_001218" region="textRegion" />
+      </par>
+      <par id="strong_000065" class="strong">
+        <text src="Programming_Robots_with_ROS.xml#strong_000065" region="textRegion" />
+      </par>
+      <par id="span_001219" class="span">
+        <text src="Programming_Robots_with_ROS.xml#span_001219" region="textRegion" />
+      </par>
+      <par id="span_001220" class="span">
+        <text src="Programming_Robots_with_ROS.xml#span_001220" region="textRegion" />
+      </par>
+      <par id="code_000616" class="code">
+        <text src="Programming_Robots_with_ROS.xml#code_000616" region="textRegion" />
+      </par>
+      <par id="span_001221" class="span">
+        <text src="Programming_Robots_with_ROS.xml#span_001221" region="textRegion" />
+      </par>
+      <par id="span_001222" class="span">
+        <text src="Programming_Robots_with_ROS.xml#span_001222" region="textRegion" />
+      </par>
+      <par id="code_000617" class="code">
+        <text src="Programming_Robots_with_ROS.xml#code_000617" region="textRegion" />
+      </par>
+      <par id="span_001223" class="span">
+        <text src="Programming_Robots_with_ROS.xml#span_001223" region="textRegion" />
+      </par>
+      <par id="code_000618" class="code">
+        <text src="Programming_Robots_with_ROS.xml#code_000618" region="textRegion" />
+      </par>
+      <par id="p_000449" class="p">
+        <text src="Programming_Robots_with_ROS.xml#p_000449" region="textRegion" />
+      </par>
+      <par id="span_001224" class="span">
+        <text src="Programming_Robots_with_ROS.xml#span_001224" region="textRegion" />
+      </par>
+      <par id="strong_000066" class="strong">
+        <text src="Programming_Robots_with_ROS.xml#strong_000066" region="textRegion" />
+      </par>
+      <par id="span_001225" class="span">
+        <text src="Programming_Robots_with_ROS.xml#span_001225" region="textRegion" />
+      </par>
+      <par id="span_001226" class="span">
+        <text src="Programming_Robots_with_ROS.xml#span_001226" region="textRegion" />
+      </par>
+      <par id="code_000620" class="code">
+        <text src="Programming_Robots_with_ROS.xml#code_000620" region="textRegion" />
+      </par>
+      <par id="span_001227" class="span">
+        <text src="Programming_Robots_with_ROS.xml#span_001227" region="textRegion" />
+      </par>
+      <par id="p_000452" class="p">
+        <text src="Programming_Robots_with_ROS.xml#p_000452" region="textRegion" />
+      </par>
+      <par id="code_000621" class="code">
+        <text src="Programming_Robots_with_ROS.xml#code_000621" region="textRegion" />
+      </par>
+      <par id="p_000454" class="p">
+        <text src="Programming_Robots_with_ROS.xml#p_000454" region="textRegion" />
+      </par>
+      <par id="span_001228" class="span">
+        <text src="Programming_Robots_with_ROS.xml#span_001228" region="textRegion" />
+      </par>
+      <par id="strong_000067" class="strong">
+        <text src="Programming_Robots_with_ROS.xml#strong_000067" region="textRegion" />
+      </par>
+      <par id="span_001229" class="span">
+        <text src="Programming_Robots_with_ROS.xml#span_001229" region="textRegion" />
+      </par>
+      <par id="span_001230" class="span">
+        <text src="Programming_Robots_with_ROS.xml#span_001230" region="textRegion" />
+      </par>
+      <par id="code_000623" class="code">
+        <text src="Programming_Robots_with_ROS.xml#code_000623" region="textRegion" />
+      </par>
+      <par id="span_001231" class="span">
+        <text src="Programming_Robots_with_ROS.xml#span_001231" region="textRegion" />
+      </par>
+      <par id="h1_000107" class="h1">
+        <text src="Programming_Robots_with_ROS.xml#h1_000107" region="textRegion" />
+      </par>
+      <par id="span_001232" class="span">
+        <text src="Programming_Robots_with_ROS.xml#span_001232" region="textRegion" />
+      </par>
+      <par id="em_000182" class="em">
+        <text src="Programming_Robots_with_ROS.xml#em_000182" region="textRegion" />
+      </par>
+      <par id="span_001233" class="span">
+        <text src="Programming_Robots_with_ROS.xml#span_001233" region="textRegion" />
+      </par>
+      <a href="#ch05-topics_services_actions" external="false">
+        <par id="a_000078" class="a">
+          <text src="Programming_Robots_with_ROS.xml#a_000078" region="textRegion" />
+        </par>
+      </a>
+      <par id="span_001234" class="span">
+        <text src="Programming_Robots_with_ROS.xml#span_001234" region="textRegion" />
+      </par>
+      <par id="em_000183" class="em">
+        <text src="Programming_Robots_with_ROS.xml#em_000183" region="textRegion" />
+      </par>
+      <par id="span_001235" class="span">
+        <text src="Programming_Robots_with_ROS.xml#span_001235" region="textRegion" />
+      </par>
+      <par id="em_000184" class="em">
+        <text src="Programming_Robots_with_ROS.xml#em_000184" region="textRegion" />
+      </par>
+      <par id="span_001236" class="span">
+        <text src="Programming_Robots_with_ROS.xml#span_001236" region="textRegion" />
+      </par>
+      <par id="em_000185" class="em">
+        <text src="Programming_Robots_with_ROS.xml#em_000185" region="textRegion" />
+      </par>
+      <par id="span_001237" class="span">
+        <text src="Programming_Robots_with_ROS.xml#span_001237" region="textRegion" />
+      </par>
+      <par id="em_000186" class="em">
+        <text src="Programming_Robots_with_ROS.xml#em_000186" region="textRegion" />
+      </par>
+      <par id="span_001238" class="span">
+        <text src="Programming_Robots_with_ROS.xml#span_001238" region="textRegion" />
+      </par>
+      <par id="em_000187" class="em">
+        <text src="Programming_Robots_with_ROS.xml#em_000187" region="textRegion" />
+      </par>
+      <par id="span_001239" class="span">
+        <text src="Programming_Robots_with_ROS.xml#span_001239" region="textRegion" />
+      </par>
+      <par id="span_001240" class="span">
+        <text src="Programming_Robots_with_ROS.xml#span_001240" region="textRegion" />
+      </par>
+      <par id="span_001241" class="span">
+        <text src="Programming_Robots_with_ROS.xml#span_001241" region="textRegion" />
+      </par>
+      <par id="th_000006" class="th">
+        <text src="Programming_Robots_with_ROS.xml#th_000006" region="textRegion" />
+      </par>
+      <par id="th_000007" class="th">
+        <text src="Programming_Robots_with_ROS.xml#th_000007" region="textRegion" />
+      </par>
+      <par id="p_000457" class="p">
+        <text src="Programming_Robots_with_ROS.xml#p_000457" region="textRegion" />
+      </par>
+      <par id="p_000458" class="p">
+        <text src="Programming_Robots_with_ROS.xml#p_000458" region="textRegion" />
+      </par>
+      <par id="p_000459" class="p">
+        <text src="Programming_Robots_with_ROS.xml#p_000459" region="textRegion" />
+      </par>
+      <par id="p_000460" class="p">
+        <text src="Programming_Robots_with_ROS.xml#p_000460" region="textRegion" />
+      </par>
+      <par id="p_000461" class="p">
+        <text src="Programming_Robots_with_ROS.xml#p_000461" region="textRegion" />
+      </par>
+      <par id="p_000462" class="p">
+        <text src="Programming_Robots_with_ROS.xml#p_000462" region="textRegion" />
+      </par>
+      <par id="span_001242" class="span">
+        <text src="Programming_Robots_with_ROS.xml#span_001242" region="textRegion" />
+      </par>
+      <par id="code_000624" class="code">
+        <text src="Programming_Robots_with_ROS.xml#code_000624" region="textRegion" />
+      </par>
+      <par id="span_001243" class="span">
+        <text src="Programming_Robots_with_ROS.xml#span_001243" region="textRegion" />
+      </par>
+      <par id="code_000625" class="code">
+        <text src="Programming_Robots_with_ROS.xml#code_000625" region="textRegion" />
+      </par>
+      <par id="span_001244" class="span">
+        <text src="Programming_Robots_with_ROS.xml#span_001244" region="textRegion" />
+      </par>
+      <par id="span_001245" class="span">
+        <text src="Programming_Robots_with_ROS.xml#span_001245" region="textRegion" />
+      </par>
+      <par id="span_001246" class="span">
+        <text src="Programming_Robots_with_ROS.xml#span_001246" region="textRegion" />
+      </par>
+      <par id="span_001247" class="span">
+        <text src="Programming_Robots_with_ROS.xml#span_001247" region="textRegion" />
+      </par>
+      <par id="span_001248" class="span">
+        <text src="Programming_Robots_with_ROS.xml#span_001248" region="textRegion" />
+      </par>
+      <par id="code_000626" class="code">
+        <text src="Programming_Robots_with_ROS.xml#code_000626" region="textRegion" />
+      </par>
+      <par id="span_001249" class="span">
+        <text src="Programming_Robots_with_ROS.xml#span_001249" region="textRegion" />
+      </par>
+      <par id="span_001250" class="span">
+        <text src="Programming_Robots_with_ROS.xml#span_001250" region="textRegion" />
+      </par>
+      <par id="span_001251" class="span">
+        <text src="Programming_Robots_with_ROS.xml#span_001251" region="textRegion" />
+      </par>
+      <par id="span_001252" class="span">
+        <text src="Programming_Robots_with_ROS.xml#span_001252" region="textRegion" />
+      </par>
+      <a href="#ch07-wanderbot" external="false">
+        <par id="a_000080" class="a">
+          <text src="Programming_Robots_with_ROS.xml#a_000080" region="textRegion" />
+        </par>
+      </a>
+      <par id="span_001253" class="span">
+        <text src="Programming_Robots_with_ROS.xml#span_001253" region="textRegion" />
+      </par>
+      <par id="h1_000108" class="h1">
+        <text src="Programming_Robots_with_ROS.xml#h1_000108" region="textRegion" />
+      </par>
+      <par id="p_000465" class="p">
+        <text src="Programming_Robots_with_ROS.xml#p_000465" region="textRegion" />
+      </par>
+      <par id="h1_000109" class="h1">
+        <text src="Programming_Robots_with_ROS.xml#h1_000109" region="textRegion" />
+      </par>
+      <par id="span_001254" class="span">
+        <text src="Programming_Robots_with_ROS.xml#span_001254" region="textRegion" />
+      </par>
+      <par id="em_000188" class="em">
+        <text src="Programming_Robots_with_ROS.xml#em_000188" region="textRegion" />
+      </par>
+      <par id="span_001255" class="span">
+        <text src="Programming_Robots_with_ROS.xml#span_001255" region="textRegion" />
+      </par>
+      <par id="em_000189" class="em">
+        <text src="Programming_Robots_with_ROS.xml#em_000189" region="textRegion" />
+      </par>
+      <par id="span_001256" class="span">
+        <text src="Programming_Robots_with_ROS.xml#span_001256" region="textRegion" />
+      </par>
+      <par id="em_000190" class="em">
+        <text src="Programming_Robots_with_ROS.xml#em_000190" region="textRegion" />
+      </par>
+      <par id="span_001257" class="span">
+        <text src="Programming_Robots_with_ROS.xml#span_001257" region="textRegion" />
+      </par>
+      <par id="h1_000110" class="h1">
+        <text src="Programming_Robots_with_ROS.xml#h1_000110" region="textRegion" />
+      </par>
+      <par id="span_001258" class="span">
+        <text src="Programming_Robots_with_ROS.xml#span_001258" region="textRegion" />
+      </par>
+      <par id="em_000191" class="em">
+        <text src="Programming_Robots_with_ROS.xml#em_000191" region="textRegion" />
+      </par>
+      <par id="span_001259" class="span">
+        <text src="Programming_Robots_with_ROS.xml#span_001259" region="textRegion" />
+      </par>
+      <par id="p_000466" class="p">
+        <text src="Programming_Robots_with_ROS.xml#p_000466" region="textRegion" />
+      </par>
+      <par id="span_001260" class="span">
+        <text src="Programming_Robots_with_ROS.xml#span_001260" region="textRegion" />
+      </par>
+      <par id="ch06-idp21656448" class="em">
+        <text src="Programming_Robots_with_ROS.xml#ch06-idp21656448" region="textRegion" />
+      </par>
+      <par id="span_001261" class="span">
+        <text src="Programming_Robots_with_ROS.xml#span_001261" region="textRegion" />
+      </par>
+      <par id="em_000192" class="em">
+        <text src="Programming_Robots_with_ROS.xml#em_000192" region="textRegion" />
+      </par>
+      <par id="span_001262" class="span">
+        <text src="Programming_Robots_with_ROS.xml#span_001262" region="textRegion" />
+      </par>
+      <par id="ch06-idp21659552" class="em">
+        <text src="Programming_Robots_with_ROS.xml#ch06-idp21659552" region="textRegion" />
+      </par>
+      <par id="span_001263" class="span">
+        <text src="Programming_Robots_with_ROS.xml#span_001263" region="textRegion" />
+      </par>
+      <par id="span_001264" class="span">
+        <text src="Programming_Robots_with_ROS.xml#span_001264" region="textRegion" />
+      </par>
+      <par id="em_000193" class="em">
+        <text src="Programming_Robots_with_ROS.xml#em_000193" region="textRegion" />
+      </par>
+      <par id="span_001265" class="span">
+        <text src="Programming_Robots_with_ROS.xml#span_001265" region="textRegion" />
+      </par>
+      <par id="ch06-idp21661952" class="em">
+        <text src="Programming_Robots_with_ROS.xml#ch06-idp21661952" region="textRegion" />
+      </par>
+      <par id="span_001266" class="span">
+        <text src="Programming_Robots_with_ROS.xml#span_001266" region="textRegion" />
+      </par>
+      <par id="em_000194" class="em">
+        <text src="Programming_Robots_with_ROS.xml#em_000194" region="textRegion" />
+      </par>
+      <par id="span_001267" class="span">
+        <text src="Programming_Robots_with_ROS.xml#span_001267" region="textRegion" />
+      </par>
+      <par id="span_001268" class="span">
+        <text src="Programming_Robots_with_ROS.xml#span_001268" region="textRegion" />
+      </par>
+      <par id="em_000195" class="em">
+        <text src="Programming_Robots_with_ROS.xml#em_000195" region="textRegion" />
+      </par>
+      <par id="span_001269" class="span">
+        <text src="Programming_Robots_with_ROS.xml#span_001269" region="textRegion" />
+      </par>
+      <par id="ch06-idp21666736" class="em">
+        <text src="Programming_Robots_with_ROS.xml#ch06-idp21666736" region="textRegion" />
+      </par>
+      <par id="span_001270" class="span">
+        <text src="Programming_Robots_with_ROS.xml#span_001270" region="textRegion" />
+      </par>
+      <par id="p_000467" class="p">
+        <text src="Programming_Robots_with_ROS.xml#p_000467" region="textRegion" />
+      </par>
+      <par id="p_000468" class="p">
+        <text src="Programming_Robots_with_ROS.xml#p_000468" region="textRegion" />
+      </par>
+      <par id="span_001271" class="span">
+        <text src="Programming_Robots_with_ROS.xml#span_001271" region="textRegion" />
+      </par>
+      <par id="em_000196" class="em">
+        <text src="Programming_Robots_with_ROS.xml#em_000196" region="textRegion" />
+      </par>
+      <par id="span_001272" class="span">
+        <text src="Programming_Robots_with_ROS.xml#span_001272" region="textRegion" />
+      </par>
+      <par id="span_001273" class="span">
+        <text src="Programming_Robots_with_ROS.xml#span_001273" region="textRegion" />
+      </par>
+      <par id="ch06-idp21672752" class="em">
+        <text src="Programming_Robots_with_ROS.xml#ch06-idp21672752" region="textRegion" />
+      </par>
+      <par id="span_001274" class="span">
+        <text src="Programming_Robots_with_ROS.xml#span_001274" region="textRegion" />
+      </par>
+      <par id="em_000197" class="em">
+        <text src="Programming_Robots_with_ROS.xml#em_000197" region="textRegion" />
+      </par>
+      <par id="span_001275" class="span">
+        <text src="Programming_Robots_with_ROS.xml#span_001275" region="textRegion" />
+      </par>
+      <par id="em_000198" class="em">
+        <text src="Programming_Robots_with_ROS.xml#em_000198" region="textRegion" />
+      </par>
+      <par id="span_001276" class="span">
+        <text src="Programming_Robots_with_ROS.xml#span_001276" region="textRegion" />
+      </par>
+      <par id="ch06-idp21708144" class="em">
+        <text src="Programming_Robots_with_ROS.xml#ch06-idp21708144" region="textRegion" />
+      </par>
+      <par id="span_001277" class="span">
+        <text src="Programming_Robots_with_ROS.xml#span_001277" region="textRegion" />
+      </par>
+      <par id="span_001278" class="span">
+        <text src="Programming_Robots_with_ROS.xml#span_001278" region="textRegion" />
+      </par>
+      <par id="em_000199" class="em">
+        <text src="Programming_Robots_with_ROS.xml#em_000199" region="textRegion" />
+      </par>
+      <par id="span_001279" class="span">
+        <text src="Programming_Robots_with_ROS.xml#span_001279" region="textRegion" />
+      </par>
+      <par id="span_001280" class="span">
+        <text src="Programming_Robots_with_ROS.xml#span_001280" region="textRegion" />
+      </par>
+      <par id="code_000627" class="code">
+        <text src="Programming_Robots_with_ROS.xml#code_000627" region="textRegion" />
+      </par>
+      <par id="span_001281" class="span">
+        <text src="Programming_Robots_with_ROS.xml#span_001281" region="textRegion" />
+      </par>
+      <par id="em_000200" class="em">
+        <text src="Programming_Robots_with_ROS.xml#em_000200" region="textRegion" />
+      </par>
+      <par id="span_001282" class="span">
+        <text src="Programming_Robots_with_ROS.xml#span_001282" region="textRegion" />
+      </par>
+      <par id="p_000469" class="p">
+        <text src="Programming_Robots_with_ROS.xml#p_000469" region="textRegion" />
+      </par>
+      <par id="span_001283" class="span">
+        <text src="Programming_Robots_with_ROS.xml#span_001283" region="textRegion" />
+      </par>
+      <par id="ch06-idp21715936" class="em">
+        <text src="Programming_Robots_with_ROS.xml#ch06-idp21715936" region="textRegion" />
+      </par>
+      <par id="span_001284" class="span">
+        <text src="Programming_Robots_with_ROS.xml#span_001284" region="textRegion" />
+      </par>
+      <par id="h1_000111" class="h1">
+        <text src="Programming_Robots_with_ROS.xml#h1_000111" region="textRegion" />
+      </par>
+      <par id="span_001285" class="span">
+        <text src="Programming_Robots_with_ROS.xml#span_001285" region="textRegion" />
+      </par>
+      <par id="em_000201" class="em">
+        <text src="Programming_Robots_with_ROS.xml#em_000201" region="textRegion" />
+      </par>
+      <par id="span_001286" class="span">
+        <text src="Programming_Robots_with_ROS.xml#span_001286" region="textRegion" />
+      </par>
+      <par id="ch06-idp21722944" class="em">
+        <text src="Programming_Robots_with_ROS.xml#ch06-idp21722944" region="textRegion" />
+      </par>
+      <par id="span_001287" class="span">
+        <text src="Programming_Robots_with_ROS.xml#span_001287" region="textRegion" />
+      </par>
+      <par id="ch06-idp21727008" class="em">
+        <text src="Programming_Robots_with_ROS.xml#ch06-idp21727008" region="textRegion" />
+      </par>
+      <par id="span_001288" class="span">
+        <text src="Programming_Robots_with_ROS.xml#span_001288" region="textRegion" />
+      </par>
+      <par id="p_000470" class="p">
+        <text src="Programming_Robots_with_ROS.xml#p_000470" region="textRegion" />
+      </par>
+      <par id="span_001289" class="span">
+        <text src="Programming_Robots_with_ROS.xml#span_001289" region="textRegion" />
+      </par>
+      <par id="em_000202" class="em">
+        <text src="Programming_Robots_with_ROS.xml#em_000202" region="textRegion" />
+      </par>
+      <par id="span_001290" class="span">
+        <text src="Programming_Robots_with_ROS.xml#span_001290" region="textRegion" />
+      </par>
+      <par id="em_000203" class="em">
+        <text src="Programming_Robots_with_ROS.xml#em_000203" region="textRegion" />
+      </par>
+      <par id="span_001291" class="span">
+        <text src="Programming_Robots_with_ROS.xml#span_001291" region="textRegion" />
+      </par>
+      <par id="em_000204" class="em">
+        <text src="Programming_Robots_with_ROS.xml#em_000204" region="textRegion" />
+      </par>
+      <par id="span_001292" class="span">
+        <text src="Programming_Robots_with_ROS.xml#span_001292" region="textRegion" />
+      </par>
+      <par id="ch06-idp21733296" class="em">
+        <text src="Programming_Robots_with_ROS.xml#ch06-idp21733296" region="textRegion" />
+      </par>
+    </seq>
+  </body>
+</smil>
+

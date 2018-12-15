@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN" "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="eng">
+  <head>
+    <smilCustomTest id="pagenumCustomTest" defaultState="false" override="visible" bookStruct="PAGE_NUMBER" />
+    <smilCustomTest id="noteCustomTest" defaultState="false" override="visible" bookStruct="NOTE" />
+    <meta name="dtb:uid" content="9781449323899" />
+    <meta name="dtb:depth" content="1" />
+    <meta name="dtb:generator" content="Bookshare.org" />
+    <meta name="dtb:totalPageCount" content="1" />
+    <meta name="dtb:maxPageNumber" content="" />
+  </head>
+  <docTitle>
+    <text>Programming Robots with ROS</text>
+  </docTitle>
+  <docAuthor>
+    <text>Brian Gerkey</text>
+  </docAuthor>
+  <docAuthor>
+    <text>Morgan Quigley</text>
+  </docAuthor>
+  <docAuthor>
+    <text>William D. Smart</text>
+  </docAuthor>
+  <navMap>
+    <navInfo>
+      <text>Primary navigation is by level</text>
+    </navInfo>
+    <navPoint id="bks_notice" class="navPoint-level-level1" playOrder="1">
+      <navLabel>
+        <text>NOTICE</text>
+      </navLabel>
+      <content src="Programming_Robots_with_ROS00001.smil#bks_notice_001" />
+    </navPoint>
+    <navPoint id="titlepage01" class="navPoint-level-level1" playOrder="3">
+      <navLabel>
+        <text>Programming Robots with ROS Morgan Quigley, Brian Gerkey, and William ...</text>
+      </navLabel>
+      <content src="Programming_Robots_with_ROS00001.smil#h1_000001" />
+    </navPoint>
+    <navPoint id="copyright-page01" class="navPoint-level-level1" playOrder="4">
+      <navLabel>
+        <text>Programming Robots with ROS by Morgan Quigley, Brian Gerkey, and ...</text>
+      </navLabel>
+      <content src="Programming_Robots_with_ROS00001.smil#h1_000002" />
+    </navPoint>
+    <navPoint id="preface01" class="navPoint-level-level1" playOrder="5">
+      <navLabel>
+        <text>Preface ROS, the Robot Operating System, is an open source framework ...</text>
+      </navLabel>
+      <content src="Programming_Robots_with_ROS00001.smil#h1_000004" />
+    </navPoint>
+    <navPoint id="part01" class="navPoint-level-level1" playOrder="6">
+      <navLabel>
+        <text>Part I. Fundamentals</text>
+      </navLabel>
+      <content src="Programming_Robots_with_ROS00001.smil#h1_000018" />
+    </navPoint>
+    <navPoint id="ch01" class="navPoint-level-level1" playOrder="7">
+      <navLabel>
+        <text>Chapter 1. Introduction The Robot Operating System (ROS) is a framework ...</text>
+      </navLabel>
+      <content src="Programming_Robots_with_ROS00001.smil#h1_000019" />
+    </navPoint>
+    <navPoint id="ch02" class="navPoint-level-level1" playOrder="8">
+      <navLabel>
+        <text>Chapter 2. Preliminaries Before we start writing code in ROS, we...</text>
+      </navLabel>
+      <content src="Programming_Robots_with_ROS00001.smil#h1_000024" />
+    </navPoint>
+    <navPoint id="ch03" class="navPoint-level-level1" playOrder="9">
+      <navLabel>
+        <text>Chapter 3. Topics As we saw in the previous chapter, ROS systems ...</text>
+      </navLabel>
+      <content src="Programming_Robots_with_ROS00003.smil#h1_000052" />
+    </navPoint>
+    <navPoint id="ch04" class="navPoint-level-level1" playOrder="10">
+      <navLabel>
+        <text>Chapter 4. Services Services are another way to pass data between ...</text>
+      </navLabel>
+      <content src="Programming_Robots_with_ROS00004.smil#h1_000077" />
+    </navPoint>
+    <navPoint id="ch05" class="navPoint-level-level1" playOrder="11">
+      <navLabel>
+        <text>Chapter 5. Actions The previous chapter described ROS services, which ...</text>
+      </navLabel>
+      <content src="Programming_Robots_with_ROS00004.smil#h1_000091" />
+    </navPoint>
+    <navPoint id="ch06" class="navPoint-level-level1" playOrder="12">
+      <navLabel>
+        <text>Chapter 6. Robots and Simulators The previous chapters discussed ...</text>
+      </navLabel>
+      <content src="Programming_Robots_with_ROS00005.smil#h1_000108" />
+    </navPoint>
+    <navPoint id="ch07" class="navPoint-level-level1" playOrder="13">
+      <navLabel>
+        <text>Chapter 7. Wander-bot The first chapters of this book introduced ...</text>
+      </navLabel>
+      <content src="Programming_Robots_with_ROS00006.smil#h1_000134" />
+    </navPoint>
+    <navPoint id="part02" class="navPoint-level-level1" playOrder="14">
+      <navLabel>
+        <text>Part II. Moving Around Using ROS</text>
+      </navLabel>
+      <content src="Programming_Robots_with_ROS00007.smil#h1_000145" />
+    </navPoint>
+    <navPoint id="ch08" class="navPoint-level-level1" playOrder="15">
+      <navLabel>
+        <text>Chapter 8. Teleop-bot The previous section covered fundamental concepts ...</text>
+      </navLabel>
+      <content src="Programming_Robots_with_ROS00007.smil#h1_000146" />
+    </navPoint>
+    <navPoint id="ch09" class="navPoint-level-level1" playOrder="16">
+      <navLabel>
+        <text>Chapter 9. Building Maps of the World Now that you know how ROS works ...</text>
+      </navLabel>
+      <content src="Programming_Robots_with_ROS00008.smil#h1_000173" />
+    </navPoint>
+    <navPoint id="ch10" class="navPoint-level-level1" playOrder="17">
+      <navLabel>
+        <text>Chapter 10. Navigating About the World One of the most basic things ...</text>
+      </navLabel>
+      <content src="Programming_Robots_with_ROS00009.smil#h1_000191" />
+    </navPoint>
+    <navPoint id="ch11" class="navPoint-level-level1" playOrder="18">
+      <navLabel>
+        <text>Chapter 11. Chess-bot Thus far, this book has focused on driving ...</text>
+      </navLabel>
+      <content src="Programming_Robots_with_ROS00010.smil#h1_000209" />
+    </navPoint>
+    <navPoint id="part03" class="navPoint-level-level1" playOrder="19">
+      <navLabel>
+        <text>Part III. Perception and Behavior</text>
+      </navLabel>
+      <content src="Programming_Robots_with_ROS00011.smil#h1_000240" />
+    </navPoint>
+    <navPoint id="ch12" class="navPoint-level-level1" playOrder="20">
+      <navLabel>
+        <text>Chapter 12. Follow-bot The previous several chapters were mostly ...</text>
+      </navLabel>
+      <content src="Programming_Robots_with_ROS00011.smil#h1_000241" />
+    </navPoint>
+    <navPoint id="ch13" class="navPoint-level-level1" playOrder="21">
+      <navLabel>
+        <text>Chapter 13. On Patrol In Chapter 10, you saw how to use the ROS nav ...</text>
+      </navLabel>
+      <content src="Programming_Robots_with_ROS00012.smil#h1_000259" />
+    </navPoint>
+    <navPoint id="ch14" class="navPoint-level-level1" playOrder="22">
+      <navLabel>
+        <text>Chapter 14. Stockroom-bot In this chapter, we will combine some of ...</text>
+      </navLabel>
+      <content src="Programming_Robots_with_ROS00014.smil#h1_000277" />
+    </navPoint>
+    <navPoint id="part04" class="navPoint-level-level1" playOrder="23">
+      <navLabel>
+        <text>Part IV. Bringing Your Own Stuff into ROS</text>
+      </navLabel>
+      <content src="Programming_Robots_with_ROS00018.smil#h1_000315" />
+    </navPoint>
+    <navPoint id="ch15" class="navPoint-level-level1" playOrder="24">
+      <navLabel>
+        <text>Chapter 15. Your Own Sensors and Actuators Up until now, we've looked ...</text>
+      </navLabel>
+      <content src="Programming_Robots_with_ROS00018.smil#h1_000316" />
+    </navPoint>
+    <navPoint id="ch16" class="navPoint-level-level1" playOrder="25">
+      <navLabel>
+        <text>Chapter 16. Your Own Mobile Robot One of the most rewarding (if occasionally ...</text>
+      </navLabel>
+      <content src="Programming_Robots_with_ROS00020.smil#h1_000345" />
+    </navPoint>
+    <navPoint id="ch17" class="navPoint-level-level1" playOrder="26">
+      <navLabel>
+        <text>Chapter 17. Your Own Mobile Robot: Part 2 In Chapter 16, we learned ...</text>
+      </navLabel>
+      <content src="Programming_Robots_with_ROS00021.smil#h1_000374" />
+    </navPoint>
+    <navPoint id="ch18" class="navPoint-level-level1" playOrder="27">
+      <navLabel>
+        <text>Chapter 18. Your Own Robot Arm In Chapters 16 and 17, we learned ...</text>
+      </navLabel>
+      <content src="Programming_Robots_with_ROS00022.smil#h1_000402" />
+    </navPoint>
+    <navPoint id="ch19" class="navPoint-level-level1" playOrder="28">
+      <navLabel>
+        <text>Chapter 19. Adding a Software Library A common step in building a ...</text>
+      </navLabel>
+      <content src="Programming_Robots_with_ROS00023.smil#h1_000445" />
+    </navPoint>
+    <navPoint id="part05" class="navPoint-level-level1" playOrder="29">
+      <navLabel>
+        <text>Part V. Tips and Tricks</text>
+      </navLabel>
+      <content src="Programming_Robots_with_ROS00024.smil#h1_000459" />
+    </navPoint>
+    <navPoint id="ch20" class="navPoint-level-level1" playOrder="30">
+      <navLabel>
+        <text>Chapter 20. Tools Efficient software development requires good developer ...</text>
+      </navLabel>
+      <content src="Programming_Robots_with_ROS00024.smil#h1_000460" />
+    </navPoint>
+    <navPoint id="ch21" class="navPoint-level-level1" playOrder="31">
+      <navLabel>
+        <text>Chapter 21. Debugging Robot Behavior As you've no doubt noticed by ...</text>
+      </navLabel>
+      <content src="Programming_Robots_with_ROS00025.smil#h1_000484" />
+    </navPoint>
+    <navPoint id="ch22" class="navPoint-level-level1" playOrder="32">
+      <navLabel>
+        <text>Chapter 22. The ROS Community: Online Resources In this book, we ...</text>
+      </navLabel>
+      <content src="Programming_Robots_with_ROS00026.smil#h1_000513" />
+    </navPoint>
+    <navPoint id="ch23" class="navPoint-level-level1" playOrder="33">
+      <navLabel>
+        <text>Chapter 23. Using C++ in ROS We chose to use Python for this book ...</text>
+      </navLabel>
+      <content src="Programming_Robots_with_ROS00027.smil#h1_000523" />
+    </navPoint>
+    <navPoint id="ix01" class="navPoint-level-level1" playOrder="34">
+      <navLabel>
+        <text>IndexSymbols/ (forward slash), Names, Namespaces, and Remapping/rosout, ...</text>
+      </navLabel>
+      <content src="Programming_Robots_with_ROS00028.smil#h1_000541" />
+    </navPoint>
+    <navPoint id="colophon01" class="navPoint-level-level1" playOrder="35">
+      <navLabel>
+        <text>About the Authors Morgan Quigley is a cofounder of the Open Source ...</text>
+      </navLabel>
+      <content src="Programming_Robots_with_ROS00034.smil#h1_000568" />
+    </navPoint>
+    <navPoint id="colophon02" class="navPoint-level-level1" playOrder="36">
+      <navLabel>
+        <text>Colophon The animal on the cover of Programming Robots with ROS is ...</text>
+      </navLabel>
+      <content src="Programming_Robots_with_ROS00034.smil#h1_000569" />
+    </navPoint>
+  </navMap>
+  <pageList>
+    <navLabel>
+      <text>Pages</text>
+    </navLabel>
+    <pageTarget id="pagenum_000001" playOrder="2" type="normal" value="1">
+      <navLabel>
+        <text>pagenum_000001</text>
+      </navLabel>
+      <content src="Programming_Robots_with_ROS00001.smil#pagenum_000001" />
+    </pageTarget>
+  </pageList>
+</ncx>
+

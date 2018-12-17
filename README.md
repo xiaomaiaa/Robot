@@ -13,3 +13,12 @@ launch: tur...simulation/tur..gazebo/launch
 world: tur...sim/tur...gaze/world  
 sdf: tur...sim/tur..gaze/models/tur...burger  
 .xacro: turtlebot3/tur..description/urdf  
+  
+一般要开三个终端：  
+roscore  
+roslaunch turtl....gazebo turtlebot3_test.launch(加载世界)  
+rosrun tur...gazebo automove.py（运行py）  
+  
+命令行中  
+rostopic list：显示所有的话题  
+

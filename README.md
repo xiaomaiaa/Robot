@@ -12,4 +12,4 @@ rosrun tur...gazebo go.py
 launch: tur...simulation/tur..gazebo/launch  
 world: tur...sim/tur...gaze/world  
 sdf: tur...sim/tur..gaze/models/tur...burger  
-urdf: turtlebot3/tur..description/urdf  
+.xacro: turtlebot3/tur..description/urdf  

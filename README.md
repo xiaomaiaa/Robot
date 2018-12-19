@@ -21,4 +21,5 @@ rosrun tur...gazebo automove.py（运行py）
   
 命令行中  
 rostopic list：显示所有的话题  
-
+  
+v2.0（麦）：我只修改了两个xacro文件和agent.py，之后就只运行agent，不再使用automove或go  

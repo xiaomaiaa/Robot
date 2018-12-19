@@ -23,3 +23,8 @@ rosrun tur...gazebo automove.py（运行py）
 rostopic list：显示所有的话题  
   
 v2.0（麦）：我只修改了两个xacro文件和agent.py，之后就只运行agent，不再使用automove或go  
+  
+V4.0：三个终端  
+roscore  
+roslaunch tur...gazebo turtlebot3_junk_move.launch  
+rosrun tur..gazebo agent.py

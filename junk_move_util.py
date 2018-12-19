@@ -34,7 +34,7 @@ class jm(object):
 
         cmd_vel_pub=rospy.Publisher(junk_move_topic,Twist,queue_size=1)
         scan_sub=rospy.Subscriber(junk_scan_topic,LaserScan,scan_callback)
-        rospy.init_node('junk0')
+        rospy.init_node('junk0'，anonymous=True)
         twist=Twist()
         
         rate=rospy.Rate(10)

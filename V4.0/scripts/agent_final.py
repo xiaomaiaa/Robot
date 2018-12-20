@@ -41,13 +41,13 @@ while not rospy.is_shutdown():
     print 'min_above: ',min_above
     print 'min_index ',min_index
     if dis_min<0.2:
-        print 'wo diao ni ma de zhuang le a '
+        print 'dealing with target'
         twist.linear.x=0
         cmd_vel_pub.publish(twist)
         time.sleep(30)
         continue
     elif dis_min>10:
-        print 'gui dao yi kai, kan bu jian'
+        print 'searching target'
         twist.linear.x=0
         twist.angular.z=pi/4
     else:
